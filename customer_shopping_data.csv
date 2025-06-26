@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,Location,MonthlyIncome,PreferredCategory,TotalOrders,LastPurchaseDaysAgo,AverageOrderValue,SubscriptionStatus,BrowseTime_Minutes,DiscountApplied,CustomerSatisfactionScore,DeviceType
+1,24,Female,Urban,3641.18,Home Goods,49,0,76.27,No,27.8,Yes,4,Desktop
+2,48,Female,Rural,3337.29,Electronics,13,36,152.36,No,77.7,No,5,Tablet
+3,48,Female,Urban,4786.26,Electronics,36,7,146.23,Yes,99.2,Yes,5,Desktop
+4,67,Male,Urban,3780.04,Books,43,10,38.64,No,54.7,No,3,Mobile
+5,55,Female,Urban,4994.82,Clothing,22,12,152.75,Yes,107.3,No,4,Desktop
+6,59,Female,Urban,5865.2,Electronics,48,14,141.84,Yes,103.5,Yes,4,Desktop
+7,62,Female,Rural,2373.22,Beauty,33,0,23.16,Yes,104.5,No,5,Desktop
+8,19,Female,Urban,5862.69,Beauty,24,2,123.11,Yes,120.7,No,5,Mobile
+9,50,Male,Urban,6418.56,Electronics,46,0,105.53,Yes,114.3,No,5,Mobile
+10,67,Male,Rural,3627.7,Home Goods,45,1,60.93,Yes,84.2,No,3,Desktop
+11,47,Male,Urban,5966.56,Home Goods,33,12,134.2,Yes,77.1,No,3,Tablet
+12,46,Male,Suburban,4999.73,Home Goods,40,10,112.8,Yes,79.4,Yes,4,Mobile
+13,68,Female,Urban,3796.01,Electronics,11,43,122.08,Yes,101.7,No,4,Mobile
+14,66,Male,Rural,1591.37,Electronics,21,11,74.18,Yes,122.1,No,4,Tablet
+15,61,Male,Urban,5409.97,Clothing,23,1,159.67,No,34.7,Yes,5,Desktop
+16,51,Non-binary,Suburban,5028.6,Books,16,18,20.0,Yes,89.1,No,3,Tablet
+17,31,Male,Urban,5725.8,Books,18,20,122.38,No,30.6,No,4,Desktop
+18,22,Female,Urban,4720.14,Home Goods,19,21,129.83,Yes,80.6,No,3,Desktop
+19,39,Female,Rural,2835.69,Electronics,49,10,99.52,No,94.2,No,4,Mobile
+20,32,Female,Suburban,4871.67,Clothing,41,0,116.86,Yes,93.2,No,5,Desktop
+21,20,Male,Suburban,3824.14,Clothing,27,7,107.53,Yes,75.8,No,3,Mobile
+22,63,Female,Urban,3669.83,Clothing,14,38,82.35,Yes,74.2,No,4,Mobile
+23,69,Male,Urban,6494.28,Electronics,37,1,111.27,Yes,112.1,No,5,Mobile
+24,43,Female,Rural,3907.44,Electronics,32,14,118.64,Yes,134.7,No,3,Mobile
+25,58,Male,Suburban,3919.15,Beauty,49,10,65.74,Yes,63.1,Yes,4,Mobile
+26,69,Male,Rural,2754.64,Home Goods,16,16,26.85,Yes,122.7,No,4,Mobile
+27,42,Male,Urban,4260.35,Electronics,9,11,118.32,Yes,100.8,Yes,4,Tablet
+28,29,Female,Suburban,3815.63,Electronics,31,3,167.05,Yes,111.4,No,5,Mobile
+29,51,Male,Urban,5165.56,Home Goods,21,12,94.53,No,75.5,No,3,Mobile
+30,36,Male,Urban,4452.68,Electronics,46,9,163.6,Yes,86.1,No,4,Mobile
+31,28,Female,Rural,4198.03,Books,7,34,78.49,Yes,94.5,No,4,Tablet
+32,66,Male,Urban,2687.35,Books,44,5,97.63,No,22.1,No,4,Desktop
+33,23,Male,Urban,4714.8,Clothing,6,3,116.64,No,82.2,Yes,5,Mobile
+34,46,Male,Suburban,5527.87,Clothing,31,6,95.87,No,12.9,No,5,Desktop
+35,40,Male,Suburban,2608.47,Books,11,29,78.97,Yes,54.3,No,3,Mobile
+36,65,Female,Urban,4403.2,Clothing,39,2,144.61,No,54.7,No,4,Mobile
+37,40,Male,Urban,8389.24,Home Goods,12,9,147.75,No,67.9,Yes,3,Mobile
+38,28,Female,Urban,6270.92,Beauty,31,10,164.36,Yes,70.4,No,4,Desktop
+39,40,Female,Urban,6123.58,Beauty,29,11,81.05,Yes,88.6,No,3,Mobile
+40,29,Female,Urban,3071.6,Clothing,40,14,104.48,Yes,73.4,No,3,Mobile
+41,34,Male,Suburban,4618.71,Beauty,39,2,64.06,No,101.6,No,5,Mobile
+42,36,Male,Urban,4848.45,Clothing,8,36,109.21,Yes,98.5,Yes,4,Desktop
+43,67,Male,Urban,5447.98,Beauty,42,7,79.59,No,106.4,No,4,Desktop
+44,39,Male,Urban,4401.06,Electronics,13,24,168.16,No,54.5,No,5,Desktop
+45,54,Male,Urban,5825.25,Home Goods,25,5,120.41,Yes,119.3,No,5,Mobile
+46,18,Male,Suburban,3137.9,Clothing,23,10,109.69,Yes,65.5,No,4,Desktop
+47,30,Male,Urban,3498.9,Clothing,18,41,86.95,No,58.6,No,4,Mobile
+48,26,Female,Urban,4881.11,Clothing,16,8,108.72,No,65.8,Yes,3,Mobile
+49,23,Female,Urban,4934.7,Home Goods,44,4,52.12,No,78.3,Yes,5,Mobile
+50,20,Female,Urban,4536.43,Books,2,35,78.53,No,54.2,No,2,Tablet
+51,31,Male,Urban,6252.42,Clothing,5,30,108.19,No,85.3,Yes,3,Mobile
+52,51,Male,Suburban,4747.05,Books,23,13,64.63,No,43.2,No,3,Mobile
+53,41,Male,Urban,4343.7,Clothing,1,56,145.56,No,94.8,No,3,Mobile
+54,62,Male,Urban,4184.59,Clothing,43,3,56.11,No,64.6,No,4,Mobile
+55,50,Female,Urban,7039.05,Electronics,44,2,179.09,Yes,129.6,No,5,Mobile
+56,55,Female,Urban,6346.28,Home Goods,27,8,158.48,Yes,104.8,Yes,5,Desktop
+57,68,Female,Urban,5297.76,Clothing,16,30,141.45,Yes,49.0,Yes,2,Mobile
+58,58,Male,Suburban,4045.64,Beauty,47,4,115.77,Yes,90.4,No,5,Mobile
+59,68,Female,Urban,3904.49,Books,43,1,41.74,No,61.8,Yes,4,Mobile
+60,49,Male,Urban,6042.82,Clothing,41,9,153.38,Yes,82.6,No,3,Desktop
+61,50,Male,Urban,7999.36,Electronics,13,34,199.93,No,98.4,No,5,Desktop
+62,51,Female,Urban,7067.08,Clothing,8,24,179.56,Yes,81.6,No,5,Desktop
+63,60,Female,Urban,5835.43,Electronics,44,12,216.72,Yes,90.3,No,5,Mobile
+64,57,Male,Suburban,2467.75,Clothing,1,62,41.58,No,77.7,No,4,Mobile
+65,41,Female,Suburban,5065.06,Home Goods,18,34,146.67,Yes,75.9,Yes,3,Mobile
+66,61,Female,Suburban,2645.5,Beauty,2,10,21.67,No,72.3,No,3,Mobile
+67,24,Male,Urban,5289.28,Home Goods,31,8,136.44,Yes,78.1,No,3,Desktop
+68,48,Male,Urban,4366.64,Books,19,38,59.88,Yes,78.9,Yes,3,Desktop
+69,70,Male,Urban,5521.16,Electronics,34,9,156.67,No,79.7,No,3,Mobile
+70,23,Female,Urban,5195.58,Electronics,42,12,190.49,No,73.0,No,5,Desktop
+71,60,Female,Urban,5074.32,Clothing,36,14,76.3,Yes,66.6,Yes,3,Desktop
+72,57,Female,Urban,4304.62,Home Goods,41,14,53.21,Yes,108.5,No,4,Desktop
+73,42,Male,Urban,5520.56,Electronics,41,0,164.93,Yes,97.2,No,5,Mobile
+74,70,Male,Rural,3723.93,Home Goods,39,7,42.9,No,61.7,Yes,5,Desktop
+75,35,Female,Suburban,6514.48,Electronics,43,7,196.49,Yes,113.9,Yes,5,Desktop
+76,53,Male,Urban,4635.36,Home Goods,10,17,87.37,No,75.9,No,3,Mobile
+77,41,Male,Urban,5011.47,Clothing,39,4,132.03,No,44.0,Yes,4,Mobile
+78,26,Male,Suburban,3832.59,Clothing,35,1,106.42,No,56.1,No,4,Mobile
+79,25,Female,Rural,3228.97,Home Goods,12,27,96.56,No,70.1,Yes,3,Desktop
+80,33,Male,Urban,5595.2,Clothing,2,67,151.45,No,81.9,Yes,5,Mobile
+81,54,Female,Suburban,5704.61,Clothing,13,31,121.51,No,57.7,Yes,4,Mobile
+82,62,Male,Urban,6170.37,Electronics,48,1,181.19,Yes,73.8,No,4,Desktop
+83,50,Non-binary,Rural,5128.26,Home Goods,9,26,165.36,Yes,73.3,No,4,Desktop
+84,37,Male,Suburban,2311.36,Electronics,10,29,94.28,No,67.9,Yes,3,Mobile
+85,63,Female,Urban,3135.49,Clothing,13,33,52.14,No,69.3,Yes,3,Mobile
+86,34,Male,Urban,5470.3,Clothing,31,8,160.21,Yes,103.9,No,5,Mobile
+87,19,Male,Urban,4494.28,Clothing,1,16,118.47,Yes,63.5,Yes,4,Desktop
+88,41,Female,Suburban,3724.35,Electronics,35,5,115.29,No,77.4,Yes,4,Mobile
+89,62,Male,Urban,3582.31,Electronics,45,12,120.06,Yes,82.7,No,3,Mobile
+90,39,Female,Urban,5483.96,Beauty,22,5,120.58,Yes,113.9,No,5,Mobile
+91,66,Male,Urban,3234.3,Electronics,25,6,68.51,Yes,100.1,Yes,5,Desktop
+92,38,Male,Suburban,2533.16,Books,17,3,88.34,No,72.3,No,4,Mobile
+93,53,Male,Urban,5989.38,Clothing,16,3,146.19,No,82.1,Yes,5,Tablet
+94,52,Male,Urban,5870.62,Electronics,50,12,232.72,Yes,122.8,Yes,5,Mobile
+95,69,Male,Suburban,3003.15,Electronics,13,29,93.35,Yes,114.2,No,4,Desktop
+96,40,Female,Urban,7548.69,Electronics,18,19,223.98,No,94.4,Yes,5,Desktop
+97,39,Female,Urban,4760.48,Clothing,41,3,117.66,Yes,96.4,No,4,Desktop
+98,24,Male,Suburban,1500.0,Beauty,15,9,20.0,No,64.4,No,2,Mobile
+99,37,Male,Urban,5097.96,Electronics,49,12,121.83,Yes,155.9,No,3,Mobile
+100,56,Male,Suburban,2361.82,Beauty,2,69,64.58,Yes,120.4,Yes,5,Desktop
+101,67,Female,Suburban,2777.99,Electronics,39,13,140.7,No,88.7,No,4,Mobile
+102,65,Male,Urban,6135.48,Home Goods,25,2,78.27,Yes,79.0,Yes,4,Mobile
+103,32,Female,Rural,4180.73,Electronics,18,13,137.03,Yes,99.1,No,4,Mobile
+104,21,Male,Rural,1973.45,Electronics,6,29,105.25,No,134.8,Yes,4,Mobile
+105,35,Female,Suburban,3492.04,Clothing,7,35,129.17,No,74.7,No,3,Desktop
+106,58,Female,Rural,3382.02,Electronics,38,8,99.98,No,110.1,No,3,Mobile
+107,49,Female,Rural,3740.02,Beauty,31,1,107.45,No,52.5,No,4,Mobile
+108,53,Male,Urban,5670.12,Clothing,34,7,62.43,No,58.5,Yes,5,Mobile
+109,36,Male,Suburban,4391.59,Clothing,24,0,71.0,No,72.1,No,4,Mobile
+110,36,Female,Urban,3699.32,Home Goods,22,4,53.77,No,56.0,No,5,Mobile
+111,48,Male,Rural,4559.85,Clothing,19,21,79.73,No,70.0,No,2,Mobile
+112,62,Male,Suburban,2640.86,Electronics,1,48,85.42,No,70.2,No,3,Desktop
+113,34,Male,Urban,6842.18,Clothing,2,73,159.03,No,77.4,No,3,Desktop
+114,63,Female,Urban,3364.43,Electronics,5,33,117.35,No,70.2,Yes,3,Mobile
+115,55,Female,Urban,5454.75,Books,23,1,72.47,No,7.5,No,4,Mobile
+116,22,Male,Suburban,5566.34,Electronics,47,13,146.7,Yes,84.9,Yes,4,Mobile
+117,38,Male,Urban,5338.11,Electronics,28,1,178.49,Yes,131.1,No,5,Mobile
+118,32,Female,Suburban,3337.55,Electronics,21,6,149.46,Yes,112.6,Yes,5,Mobile
+119,48,Male,Suburban,3274.69,Clothing,20,8,111.33,No,25.6,No,3,Mobile
+120,45,Female,Urban,7794.45,Home Goods,36,11,177.79,Yes,98.2,No,4,Tablet
+121,26,Female,Urban,4625.91,Electronics,26,11,136.94,Yes,127.0,No,3,Desktop
+122,33,Male,Suburban,3332.59,Electronics,27,6,127.74,Yes,105.1,No,5,Mobile
+123,54,Male,Urban,3357.37,Clothing,8,34,88.47,No,73.8,Yes,2,Mobile
+124,29,Female,Urban,5299.45,Beauty,11,32,99.14,No,53.0,No,4,Desktop
+125,47,Female,Suburban,3315.44,Books,20,1,50.95,Yes,83.4,No,4,Desktop
+126,51,Female,Urban,6793.06,Home Goods,47,12,176.77,Yes,67.3,No,4,Mobile
+127,64,Female,Suburban,2310.0,Home Goods,3,16,24.8,No,66.6,No,3,Mobile
+128,29,Female,Rural,2710.25,Clothing,12,5,150.62,No,48.9,No,5,Mobile
+129,45,Female,Urban,5905.98,Books,36,4,90.51,Yes,48.7,Yes,5,Tablet
+130,60,Male,Urban,2529.34,Books,40,3,20.0,No,74.1,No,4,Desktop
+131,51,Female,Urban,4778.99,Books,12,36,38.49,No,61.7,No,3,Mobile
+132,26,Male,Urban,3071.13,Home Goods,28,8,93.33,Yes,81.0,Yes,3,Desktop
+133,57,Male,Suburban,1500.0,Electronics,34,10,110.89,Yes,106.5,Yes,4,Desktop
+134,22,Male,Urban,5213.44,Electronics,48,14,119.42,Yes,115.9,No,3,Desktop
+135,28,Male,Urban,4731.07,Electronics,28,11,142.61,Yes,136.5,Yes,5,Desktop
+136,48,Male,Urban,7787.01,Books,23,7,103.53,Yes,61.7,No,4,Mobile
+137,67,Male,Urban,2697.5,Electronics,39,14,66.38,No,100.4,Yes,3,Mobile
+138,60,Female,Suburban,4762.64,Home Goods,9,10,145.72,Yes,79.7,No,4,Tablet
+139,28,Male,Urban,6137.26,Books,18,9,96.75,Yes,58.2,No,3,Desktop
+140,63,Male,Rural,2785.07,Electronics,37,0,52.06,Yes,102.9,No,4,Mobile
+141,31,Female,Rural,2650.33,Home Goods,10,23,20.0,No,51.8,No,3,Mobile
+142,50,Male,Urban,6193.52,Beauty,18,5,152.64,Yes,102.2,No,5,Mobile
+143,63,Female,Urban,4436.71,Electronics,6,16,149.34,No,43.7,No,3,Desktop
+144,69,Male,Rural,2951.54,Books,27,2,39.31,No,26.5,Yes,4,Mobile
+145,40,Female,Urban,6345.77,Clothing,1,21,134.86,Yes,67.9,Yes,3,Mobile
+146,68,Female,Urban,4654.04,Home Goods,17,11,130.88,No,72.4,No,2,Mobile
+147,22,Male,Urban,4759.98,Home Goods,32,11,36.49,Yes,111.0,No,3,Desktop
+148,21,Male,Rural,2784.04,Home Goods,17,32,72.51,No,84.7,Yes,5,Mobile
+149,63,Female,Rural,2062.05,Books,36,9,43.86,No,60.0,No,4,Mobile
+150,68,Female,Rural,3252.9,Beauty,36,8,72.5,No,93.7,No,3,Desktop
+151,31,Female,Suburban,3145.61,Home Goods,15,20,43.69,No,43.7,No,3,Tablet
+152,63,Male,Rural,3273.39,Books,17,2,20.0,No,49.1,No,4,Mobile
+153,60,Female,Suburban,2876.67,Beauty,1,24,58.15,No,103.2,Yes,3,Mobile
+154,27,Female,Urban,6390.3,Books,25,9,149.63,Yes,59.3,No,3,Mobile
+155,57,Female,Urban,2688.87,Electronics,3,32,100.66,Yes,117.0,No,4,Mobile
+156,30,Female,Rural,4916.86,Electronics,4,11,151.82,No,90.0,Yes,4,Desktop
+157,64,Female,Rural,1500.0,Beauty,16,22,20.0,Yes,75.0,No,3,Desktop
+158,32,Male,Rural,3427.54,Home Goods,49,7,67.3,Yes,104.7,No,5,Mobile
+159,68,Female,Urban,3830.31,Beauty,37,13,64.49,No,30.9,Yes,4,Mobile
+160,58,Male,Suburban,2161.09,Electronics,9,12,93.43,Yes,92.3,No,4,Mobile
+161,53,Female,Suburban,5188.51,Home Goods,6,19,99.81,No,54.3,No,3,Mobile
+162,24,Male,Rural,2938.79,Home Goods,11,41,62.79,No,53.2,Yes,4,Desktop
+163,25,Male,Urban,5288.79,Home Goods,18,2,80.3,Yes,114.2,No,5,Desktop
+164,45,Female,Urban,3755.79,Electronics,14,35,41.18,No,83.9,No,3,Mobile
+165,57,Female,Urban,4090.68,Home Goods,8,31,90.07,Yes,107.7,No,3,Mobile
+166,52,Non-binary,Urban,5349.65,Electronics,47,10,156.42,Yes,136.8,No,4,Mobile
+167,30,Male,Suburban,3946.6,Books,38,10,154.02,No,71.5,Yes,5,Desktop
+168,47,Female,Suburban,5264.4,Home Goods,11,10,90.42,No,48.1,No,3,Mobile
+169,30,Male,Urban,4574.03,Beauty,45,7,133.24,No,87.6,Yes,5,Mobile
+170,59,Female,Rural,3004.06,Books,14,36,20.0,No,80.4,Yes,4,Mobile
+171,22,Female,Suburban,4178.87,Electronics,13,32,143.74,Yes,101.1,No,4,Tablet
+172,50,Female,Rural,3018.37,Clothing,39,5,118.31,Yes,96.5,No,4,Tablet
+173,21,Female,Urban,4971.06,Electronics,45,9,126.71,No,90.7,No,4,Desktop
+174,65,Female,Urban,3606.76,Books,46,5,83.97,No,66.1,No,3,Tablet
+175,47,Male,Rural,3803.26,Clothing,46,8,131.96,Yes,116.2,No,4,Mobile
+176,34,Female,Rural,3499.02,Home Goods,20,13,59.39,No,95.1,Yes,4,Mobile
+177,27,Female,Urban,3219.09,Electronics,45,0,148.73,Yes,160.9,No,4,Desktop
+178,40,Female,Urban,6288.49,Clothing,32,9,155.34,Yes,77.9,No,3,Desktop
+179,63,Male,Suburban,1979.68,Home Goods,4,60,31.14,No,77.7,No,2,Mobile
+180,51,Female,Urban,3822.67,Beauty,17,5,54.15,No,86.0,Yes,4,Mobile
+181,22,Male,Urban,5494.74,Books,47,11,112.81,Yes,62.5,No,3,Mobile
+182,49,Female,Urban,5823.83,Clothing,17,29,156.7,No,84.7,No,4,Mobile
+183,63,Female,Suburban,3342.0,Home Goods,2,72,78.35,No,60.4,No,3,Desktop
+184,49,Female,Suburban,3535.92,Electronics,24,1,66.64,No,73.1,No,4,Mobile
+185,47,Non-binary,Rural,6245.5,Beauty,9,25,165.1,Yes,93.9,Yes,5,Desktop
+186,70,Female,Suburban,2592.37,Clothing,29,14,60.4,No,93.4,No,3,Mobile
+187,29,Male,Urban,5942.53,Beauty,29,10,132.26,Yes,90.5,No,4,Mobile
+188,20,Female,Urban,5526.71,Home Goods,14,5,117.62,No,70.9,No,4,Tablet
+189,63,Male,Rural,2770.57,Clothing,19,10,120.08,Yes,67.7,Yes,4,Desktop
+190,61,Female,Urban,6434.57,Electronics,12,37,178.23,No,91.5,Yes,5,Mobile
+191,41,Male,Suburban,5065.5,Electronics,20,14,105.33,No,87.8,No,3,Mobile
+192,32,Female,Urban,3742.08,Electronics,30,12,162.37,Yes,115.3,Yes,5,Mobile
+193,68,Male,Urban,4126.16,Electronics,12,31,152.63,Yes,121.0,No,5,Desktop
+194,46,Female,Suburban,3588.32,Beauty,2,27,66.27,Yes,108.1,Yes,3,Mobile
+195,29,Male,Suburban,4579.1,Books,36,3,90.24,Yes,76.7,No,4,Mobile
+196,68,Female,Urban,3767.32,Electronics,38,7,86.81,No,70.1,No,3,Mobile
+197,57,Male,Suburban,5584.27,Electronics,36,8,179.52,Yes,109.3,Yes,5,Desktop
+198,65,Female,Urban,1662.51,Books,5,25,54.03,No,46.5,No,2,Tablet
+199,30,Male,Urban,3042.15,Clothing,13,15,94.99,Yes,75.4,No,2,Mobile
+200,40,Male,Urban,3133.69,Clothing,42,5,96.45,Yes,59.1,No,5,Mobile
+201,27,Male,Suburban,2360.0,Electronics,49,0,121.12,Yes,132.6,No,5,Desktop
+202,36,Male,Rural,4413.13,Electronics,39,8,139.21,Yes,138.5,No,3,Mobile
+203,20,Female,Suburban,3521.72,Books,43,3,94.35,Yes,81.9,No,5,Mobile
+204,41,Male,Urban,6542.04,Books,26,14,167.61,Yes,90.6,Yes,5,Mobile
+205,70,Male,Urban,4087.13,Home Goods,27,13,81.57,Yes,85.6,No,3,Desktop
+206,53,Female,Urban,5937.94,Clothing,33,12,110.96,Yes,80.1,Yes,3,Mobile
+207,39,Female,Urban,6950.53,Clothing,26,10,158.02,Yes,50.3,No,3,Mobile
+208,70,Male,Rural,2050.1,Home Goods,12,42,29.12,Yes,78.7,No,3,Desktop
+209,22,Female,Urban,4378.74,Home Goods,11,11,38.36,No,52.3,No,3,Desktop
+210,51,Female,Suburban,5628.27,Books,7,13,91.25,Yes,71.5,Yes,3,Mobile
+211,46,Male,Suburban,4953.57,Clothing,17,30,103.93,No,47.6,Yes,4,Desktop
+212,70,Male,Urban,5458.54,Clothing,31,5,111.68,Yes,89.7,No,3,Desktop
+213,44,Male,Suburban,3432.9,Books,21,2,20.0,No,66.8,Yes,5,Mobile
+214,37,Male,Urban,5489.45,Clothing,19,4,120.9,Yes,61.0,No,4,Desktop
+215,23,Male,Urban,5534.02,Books,11,27,141.77,No,87.8,Yes,4,Mobile
+216,37,Female,Rural,4104.19,Home Goods,37,8,65.08,No,24.0,Yes,4,Mobile
+217,67,Male,Suburban,3200.88,Beauty,49,8,74.17,No,91.6,No,4,Mobile
+218,19,Female,Rural,4007.66,Electronics,50,7,108.3,Yes,121.6,Yes,5,Mobile
+219,23,Female,Urban,4660.86,Beauty,50,9,83.9,No,92.7,No,4,Desktop
+220,68,Female,Urban,5403.67,Electronics,22,10,114.26,Yes,149.8,No,4,Mobile
+221,63,Male,Urban,4415.16,Electronics,5,20,150.87,No,110.2,Yes,5,Mobile
+222,51,Male,Urban,7004.9,Home Goods,32,1,171.1,Yes,62.6,No,4,Mobile
+223,37,Female,Urban,5251.18,Books,35,13,136.97,Yes,106.6,No,4,Mobile
+224,41,Female,Rural,4296.4,Clothing,2,40,91.54,Yes,81.9,No,3,Mobile
+225,42,Female,Suburban,4587.96,Books,20,4,85.17,No,118.1,Yes,5,Desktop
+226,35,Female,Suburban,3749.36,Home Goods,41,5,55.22,No,95.8,No,4,Desktop
+227,24,Male,Suburban,3416.73,Home Goods,2,26,83.55,No,54.8,Yes,3,Mobile
+228,63,Female,Urban,2501.83,Home Goods,4,24,76.7,Yes,88.4,No,4,Mobile
+229,33,Female,Urban,4372.88,Clothing,16,41,96.79,No,76.8,No,3,Desktop
+230,19,Female,Urban,7428.66,Home Goods,34,6,179.95,Yes,83.5,No,5,Desktop
+231,44,Male,Urban,2576.28,Home Goods,31,13,64.68,No,101.0,No,3,Desktop
+232,54,Female,Urban,4124.31,Electronics,26,1,163.82,No,109.9,No,5,Desktop
+233,24,Female,Urban,6105.04,Electronics,30,1,151.8,Yes,150.0,No,5,Tablet
+234,35,Female,Suburban,4475.34,Electronics,5,33,121.56,No,74.2,No,3,Tablet
+235,43,Male,Urban,5824.97,Electronics,35,10,168.83,Yes,100.7,Yes,5,Mobile
+236,45,Female,Suburban,5934.94,Clothing,16,28,166.26,No,79.5,No,4,Tablet
+237,63,Female,Suburban,2954.95,Electronics,38,11,118.77,Yes,102.3,No,3,Desktop
+238,70,Male,Suburban,2633.48,Clothing,1,81,34.88,No,76.0,No,3,Mobile
+239,56,Female,Urban,4775.73,Books,24,3,148.03,No,60.5,No,5,Mobile
+240,59,Male,Suburban,3971.68,Clothing,40,10,129.82,Yes,63.3,No,3,Desktop
+241,46,Female,Rural,4251.45,Home Goods,41,0,98.55,No,71.2,No,5,Mobile
+242,19,Female,Urban,3690.31,Clothing,18,40,71.69,No,16.6,No,4,Mobile
+243,42,Female,Rural,2803.63,Beauty,25,14,28.55,Yes,80.5,No,3,Mobile
+244,70,Male,Suburban,3855.02,Clothing,44,12,117.65,Yes,100.1,No,3,Tablet
+245,70,Male,Urban,2911.06,Beauty,17,24,51.62,Yes,112.9,No,4,Mobile
+246,51,Female,Urban,4677.2,Home Goods,23,8,134.2,Yes,88.1,Yes,3,Mobile
+247,32,Female,Urban,4353.85,Clothing,32,1,100.03,No,44.6,No,4,Mobile
+248,25,Female,Urban,3197.63,Books,4,41,20.0,No,77.9,Yes,3,Desktop
+249,57,Male,Rural,4213.47,Beauty,9,36,67.18,Yes,142.1,No,4,Tablet
+250,64,Male,Rural,1500.0,Clothing,8,22,53.88,No,30.1,No,3,Tablet
+251,19,Male,Rural,1500.0,Electronics,50,6,93.05,No,84.8,No,4,Mobile
+252,44,Male,Urban,4546.35,Home Goods,26,12,37.82,No,61.8,Yes,4,Mobile
+253,68,Male,Rural,1500.0,Clothing,47,0,104.29,No,99.5,Yes,5,Desktop
+254,58,Male,Suburban,4384.32,Clothing,46,6,118.34,Yes,54.5,No,3,Mobile
+255,33,Male,Urban,5212.37,Home Goods,45,3,70.25,No,71.2,Yes,5,Mobile
+256,23,Female,Urban,5430.18,Books,1,40,76.34,Yes,72.0,No,3,Mobile
+257,39,Male,Suburban,3319.93,Home Goods,39,11,85.22,Yes,96.2,No,4,Desktop
+258,56,Female,Urban,6355.42,Books,5,27,90.7,No,68.6,Yes,3,Desktop
+259,20,Female,Rural,1500.0,Books,5,23,20.0,No,77.8,Yes,3,Mobile
+260,67,Female,Suburban,2925.69,Clothing,45,3,132.23,Yes,10.7,Yes,4,Mobile
+261,34,Female,Urban,6303.45,Books,48,12,98.95,No,57.9,No,3,Mobile
+262,70,Male,Suburban,3006.65,Beauty,32,3,29.58,Yes,114.9,No,4,Mobile
+263,38,Female,Urban,3848.05,Books,36,9,68.65,Yes,57.9,Yes,3,Mobile
+264,40,Female,Urban,4986.57,Clothing,8,13,127.85,No,32.0,No,3,Mobile
+265,47,Male,Suburban,5368.83,Electronics,3,78,150.14,Yes,108.7,No,4,Desktop
+266,65,Female,Suburban,4411.48,Electronics,29,14,126.18,Yes,117.9,No,4,Mobile
+267,36,Female,Urban,2889.03,Home Goods,35,4,27.95,Yes,96.2,Yes,5,Desktop
+268,64,Male,Suburban,2489.72,Electronics,50,7,95.2,Yes,81.8,No,4,Tablet
+269,23,Female,Urban,4688.58,Clothing,9,11,100.61,Yes,82.0,No,3,Desktop
+270,60,Male,Urban,5379.73,Clothing,42,0,133.32,Yes,81.4,Yes,5,Mobile
+271,59,Male,Suburban,2887.74,Books,45,1,34.77,Yes,64.8,No,3,Mobile
+272,67,Male,Suburban,3885.42,Books,15,23,59.75,No,20.4,Yes,4,Mobile
+273,32,Female,Suburban,3862.63,Beauty,34,5,122.4,Yes,118.6,No,5,Mobile
+274,26,Non-binary,Suburban,3694.01,Electronics,46,3,106.05,Yes,114.2,Yes,5,Desktop
+275,63,Female,Rural,3077.77,Home Goods,24,6,77.99,Yes,55.4,Yes,4,Mobile
+276,64,Male,Suburban,2975.34,Electronics,16,25,111.73,Yes,113.1,No,4,Desktop
+277,23,Female,Suburban,3435.04,Electronics,20,12,165.7,No,99.3,No,5,Mobile
+278,38,Female,Urban,3682.32,Books,47,14,68.99,Yes,86.3,No,2,Tablet
+279,25,Female,Suburban,4141.71,Home Goods,21,14,75.95,No,60.2,Yes,4,Mobile
+280,65,Female,Urban,4124.48,Home Goods,45,11,118.15,Yes,80.5,No,3,Mobile
+281,57,Female,Suburban,2186.58,Beauty,26,1,41.55,Yes,102.1,No,5,Mobile
+282,51,Female,Urban,5791.34,Clothing,13,34,154.27,No,79.4,Yes,5,Mobile
+283,41,Female,Urban,7579.19,Beauty,2,58,146.89,Yes,86.0,No,3,Mobile
+284,24,Female,Rural,1500.0,Home Goods,39,11,20.0,No,5.0,Yes,4,Desktop
+285,19,Female,Urban,5959.81,Clothing,29,8,192.88,Yes,82.8,Yes,4,Mobile
+286,55,Female,Urban,5453.98,Clothing,40,4,101.54,Yes,74.0,No,4,Mobile
+287,50,Male,Urban,7557.57,Beauty,34,6,94.93,No,56.0,No,4,Mobile
+288,20,Female,Urban,5519.82,Home Goods,14,44,124.59,No,91.6,Yes,4,Mobile
+289,29,Non-binary,Urban,4217.63,Clothing,15,27,77.5,No,69.4,No,3,Desktop
+290,41,Female,Rural,4074.51,Clothing,28,13,109.15,Yes,114.2,No,5,Tablet
+291,34,Male,Rural,4770.49,Books,24,2,80.54,No,60.7,No,4,Tablet
+292,28,Female,Urban,5393.1,Clothing,43,6,171.57,Yes,83.6,No,5,Desktop
+293,27,Male,Urban,4819.67,Electronics,39,14,68.58,Yes,70.1,No,3,Mobile
+294,24,Male,Rural,3032.29,Beauty,46,10,102.68,No,56.2,Yes,3,Mobile
+295,47,Female,Suburban,5847.91,Books,12,3,20.95,No,78.4,Yes,4,Mobile
+296,24,Male,Urban,2836.92,Home Goods,24,4,79.91,Yes,60.1,Yes,4,Mobile
+297,65,Male,Urban,4786.62,Books,14,35,65.15,No,80.7,Yes,3,Desktop
+298,22,Female,Urban,3291.58,Home Goods,45,7,63.21,Yes,85.5,Yes,5,Desktop
+299,20,Male,Rural,3157.62,Electronics,42,2,90.44,Yes,83.9,No,4,Mobile
+300,53,Female,Suburban,4894.78,Electronics,3,11,203.54,No,100.8,No,4,Mobile
+301,33,Male,Urban,4678.74,Beauty,17,28,126.91,Yes,90.5,No,3,Desktop
+302,55,Male,Urban,1990.07,Home Goods,30,14,20.0,No,76.3,No,4,Mobile
+303,40,Male,Suburban,3336.44,Clothing,28,2,74.14,No,50.5,Yes,5,Mobile
+304,23,Non-binary,Urban,6540.78,Home Goods,40,14,117.38,Yes,83.6,Yes,4,Mobile
+305,65,Female,Suburban,1500.0,Electronics,29,8,105.17,Yes,106.4,No,4,Mobile
+306,45,Female,Rural,3598.12,Electronics,37,6,136.72,Yes,95.3,Yes,5,Mobile
+307,19,Female,Rural,1500.0,Beauty,46,6,20.0,No,43.8,Yes,5,Mobile
+308,57,Male,Suburban,4871.47,Books,38,13,20.0,No,59.1,No,3,Mobile
+309,55,Male,Urban,8663.64,Electronics,22,10,251.81,Yes,106.8,Yes,5,Desktop
+310,47,Female,Rural,4631.69,Home Goods,11,24,92.47,No,73.4,Yes,4,Mobile
+311,57,Female,Suburban,2828.34,Books,4,40,65.36,Yes,66.6,Yes,3,Desktop
+312,19,Male,Urban,6333.8,Beauty,26,11,92.27,Yes,86.8,No,4,Tablet
+313,29,Male,Urban,2897.95,Books,37,4,36.18,Yes,100.0,No,5,Mobile
+314,30,Female,Urban,6052.89,Electronics,13,22,194.35,No,100.6,No,5,Mobile
+315,52,Male,Suburban,4072.69,Home Goods,5,43,113.74,No,73.6,Yes,3,Mobile
+316,27,Female,Suburban,5383.94,Books,19,14,107.75,Yes,113.1,Yes,5,Mobile
+317,63,Female,Urban,6209.82,Electronics,11,17,156.14,Yes,115.3,Yes,5,Mobile
+318,49,Female,Rural,5392.5,Beauty,21,6,86.27,Yes,129.7,Yes,5,Desktop
+319,30,Female,Suburban,3397.35,Clothing,20,12,109.63,No,57.0,No,3,Mobile
+320,32,Female,Rural,3918.57,Electronics,7,3,82.8,No,80.3,Yes,5,Mobile
+321,53,Male,Urban,3858.63,Clothing,18,22,85.29,No,62.3,Yes,4,Mobile
+322,26,Male,Urban,5386.81,Clothing,17,32,116.53,No,69.0,No,3,Mobile
+323,43,Male,Rural,3608.75,Home Goods,17,29,158.18,No,45.9,No,4,Mobile
+324,39,Female,Urban,6716.44,Beauty,27,7,107.7,Yes,92.1,Yes,5,Mobile
+325,20,Female,Suburban,2599.57,Home Goods,18,27,35.89,Yes,106.4,No,3,Mobile
+326,26,Male,Urban,4095.51,Clothing,14,41,93.85,Yes,76.1,No,3,Desktop
+327,26,Female,Urban,5367.21,Home Goods,28,2,111.88,Yes,77.8,No,4,Desktop
+328,61,Female,Rural,1697.56,Home Goods,33,3,57.87,No,36.2,Yes,5,Desktop
+329,65,Male,Suburban,4585.99,Electronics,3,54,121.77,Yes,71.2,No,4,Desktop
+330,43,Female,Rural,3387.48,Beauty,32,10,89.0,Yes,89.9,Yes,3,Mobile
+331,59,Male,Rural,1822.49,Electronics,25,1,123.14,Yes,94.0,No,5,Mobile
+332,57,Female,Suburban,5304.67,Beauty,3,26,53.54,No,74.2,No,3,Mobile
+333,33,Female,Urban,4757.07,Clothing,20,3,118.82,No,82.5,No,4,Mobile
+334,44,Male,Urban,6021.51,Electronics,14,7,188.51,Yes,101.2,Yes,5,Desktop
+335,51,Male,Urban,5999.17,Electronics,37,4,228.39,No,71.3,Yes,5,Mobile
+336,24,Male,Suburban,4467.78,Clothing,14,7,91.69,Yes,27.2,No,3,Desktop
+337,44,Female,Urban,3387.6,Beauty,41,2,48.69,Yes,65.5,Yes,5,Mobile
+338,36,Male,Rural,3358.74,Home Goods,48,0,29.41,Yes,74.4,No,3,Mobile
+339,63,Male,Urban,1724.5,Electronics,7,2,52.35,No,111.5,No,4,Desktop
+340,52,Female,Suburban,5661.78,Home Goods,43,3,106.56,Yes,86.5,No,4,Mobile
+341,36,Male,Rural,3166.47,Electronics,36,0,118.77,Yes,118.6,No,4,Mobile
+342,55,Male,Suburban,5483.5,Books,24,8,38.4,No,50.3,Yes,4,Mobile
+343,34,Male,Suburban,2670.84,Books,30,2,20.0,Yes,98.2,No,5,Desktop
+344,25,Female,Suburban,3710.08,Clothing,37,1,82.99,Yes,74.4,Yes,5,Mobile
+345,49,Female,Suburban,5175.74,Clothing,19,22,174.25,Yes,99.6,No,5,Mobile
+346,23,Male,Urban,5028.2,Electronics,18,20,108.09,No,107.4,Yes,5,Mobile
+347,40,Male,Urban,2997.43,Electronics,17,6,116.9,Yes,120.3,Yes,5,Desktop
+348,62,Male,Urban,3575.06,Home Goods,49,12,33.63,Yes,65.2,Yes,3,Mobile
+349,49,Male,Urban,5891.69,Beauty,27,14,132.54,Yes,62.3,No,3,Mobile
+350,49,Female,Urban,7724.37,Clothing,20,14,206.08,Yes,53.5,Yes,4,Mobile
+351,20,Male,Rural,3448.87,Home Goods,50,13,76.82,Yes,91.2,No,4,Tablet
+352,38,Female,Suburban,4198.07,Clothing,34,2,95.99,Yes,70.0,Yes,5,Mobile
+353,48,Male,Suburban,3470.71,Home Goods,28,0,87.45,No,52.8,No,4,Desktop
+354,35,Male,Urban,4934.24,Electronics,38,11,169.15,Yes,89.5,No,4,Mobile
+355,69,Male,Suburban,3738.12,Beauty,23,11,83.94,Yes,107.1,Yes,4,Desktop
+356,37,Female,Suburban,3872.52,Home Goods,31,0,125.9,No,42.8,Yes,4,Desktop
+357,45,Female,Urban,4932.86,Home Goods,11,22,90.32,No,36.4,Yes,3,Desktop
+358,60,Non-binary,Urban,6490.62,Beauty,17,42,103.22,No,53.5,Yes,3,Tablet
+359,42,Male,Urban,4795.93,Home Goods,29,10,100.25,Yes,65.6,Yes,3,Mobile
+360,52,Female,Urban,5860.42,Clothing,24,5,81.11,Yes,85.9,Yes,5,Mobile
+361,67,Male,Urban,3699.75,Beauty,37,7,70.66,No,66.4,No,4,Mobile
+362,40,Female,Urban,5743.43,Clothing,47,8,106.1,Yes,101.1,No,3,Mobile
+363,33,Male,Urban,4153.81,Electronics,42,14,131.85,Yes,92.1,Yes,5,Mobile
+364,36,Male,Suburban,4098.36,Home Goods,43,13,102.74,Yes,62.1,No,3,Mobile
+365,46,Male,Urban,4434.27,Home Goods,31,0,80.5,No,63.8,Yes,5,Mobile
+366,62,Female,Urban,4611.89,Clothing,12,37,118.14,Yes,51.9,Yes,4,Desktop
+367,54,Female,Suburban,3883.36,Home Goods,26,5,73.46,No,66.4,Yes,3,Mobile
+368,23,Female,Urban,4793.66,Home Goods,15,3,110.03,Yes,81.1,Yes,5,Mobile
+369,35,Male,Urban,5138.58,Clothing,35,11,160.33,Yes,64.5,Yes,3,Tablet
+370,25,Male,Urban,3091.74,Books,18,12,51.64,Yes,84.9,No,3,Desktop
+371,32,Male,Rural,1981.15,Home Goods,12,5,20.0,No,67.5,No,4,Desktop
+372,54,Female,Urban,5667.52,Books,44,9,105.99,Yes,97.3,No,4,Desktop
+373,29,Male,Suburban,6008.51,Clothing,40,14,157.7,Yes,105.1,Yes,5,Desktop
+374,33,Male,Suburban,2792.84,Beauty,5,10,20.0,No,114.4,No,4,Mobile
+375,40,Male,Urban,5200.57,Clothing,45,6,165.73,Yes,115.9,No,5,Tablet
+376,25,Female,Urban,6614.23,Beauty,28,5,156.44,Yes,82.1,Yes,5,Desktop
+377,20,Female,Suburban,4185.84,Books,13,37,75.87,Yes,78.1,Yes,4,Mobile
+378,36,Male,Rural,2094.95,Clothing,22,4,107.34,Yes,82.5,No,4,Desktop
+379,35,Non-binary,Urban,5292.87,Home Goods,10,22,127.6,Yes,68.1,No,3,Desktop
+380,42,Male,Rural,4436.0,Electronics,31,9,123.44,No,85.1,No,3,Desktop
+381,40,Female,Suburban,5383.43,Beauty,37,13,101.06,Yes,85.9,No,3,Desktop
+382,32,Male,Suburban,2793.13,Electronics,10,24,111.79,No,113.8,No,4,Mobile
+383,21,Female,Suburban,4155.8,Home Goods,34,8,82.73,No,65.4,Yes,3,Desktop
+384,31,Male,Urban,6210.93,Books,31,0,151.4,Yes,85.6,Yes,5,Desktop
+385,27,Male,Rural,3862.03,Beauty,50,12,116.15,Yes,91.6,No,4,Mobile
+386,29,Male,Suburban,3991.51,Clothing,24,0,108.2,Yes,74.0,No,3,Mobile
+387,49,Female,Urban,6200.95,Books,47,2,92.06,No,57.5,No,4,Desktop
+388,61,Female,Urban,3714.5,Clothing,14,17,20.0,Yes,112.0,No,4,Mobile
+389,70,Male,Urban,6213.83,Electronics,11,13,146.78,Yes,133.9,No,3,Desktop
+390,54,Male,Urban,3799.17,Clothing,36,5,104.62,Yes,66.7,Yes,5,Mobile
+391,18,Female,Urban,4322.22,Home Goods,40,11,101.77,No,61.6,No,3,Mobile
+392,34,Female,Suburban,4122.02,Beauty,30,7,101.41,Yes,97.7,No,5,Mobile
+393,40,Female,Suburban,5228.88,Clothing,34,6,132.44,Yes,97.8,Yes,5,Desktop
+394,31,Male,Urban,6609.6,Books,12,38,132.89,No,48.7,No,3,Mobile
+395,27,Male,Urban,4490.24,Beauty,40,3,81.43,Yes,58.1,No,4,Mobile
+396,21,Female,Rural,2558.39,Clothing,23,12,69.07,No,62.8,No,3,Mobile
+397,60,Male,Suburban,1917.17,Home Goods,32,1,52.6,No,86.7,No,4,Desktop
+398,54,Male,Urban,8107.53,Electronics,1,50,211.6,Yes,123.8,No,4,Mobile
+399,58,Male,Rural,1604.05,Electronics,43,1,111.12,Yes,95.6,Yes,5,Mobile
+400,59,Male,Urban,5628.99,Clothing,6,7,130.07,Yes,90.2,Yes,5,Desktop
+401,68,Female,Urban,4175.8,Electronics,41,12,169.29,Yes,87.8,No,4,Desktop
+402,36,Male,Urban,5105.28,Beauty,13,2,68.28,Yes,85.1,Yes,4,Mobile
+403,20,Male,Urban,3385.05,Home Goods,36,10,94.79,Yes,66.8,No,3,Desktop
+404,22,Male,Urban,5550.15,Electronics,6,36,146.13,No,85.2,Yes,3,Mobile
+405,38,Female,Suburban,2650.04,Electronics,45,8,148.36,No,106.2,No,3,Tablet
+406,58,Female,Rural,2511.63,Electronics,17,26,85.34,Yes,95.6,Yes,4,Mobile
+407,40,Male,Urban,4501.34,Clothing,31,0,120.27,Yes,101.5,No,5,Mobile
+408,70,Male,Urban,3902.86,Home Goods,6,43,41.29,No,45.0,Yes,4,Mobile
+409,39,Male,Rural,3207.88,Clothing,13,19,47.2,No,55.3,No,2,Desktop
+410,32,Male,Urban,4675.68,Books,36,7,46.73,Yes,78.7,No,4,Desktop
+411,30,Male,Suburban,6175.37,Books,36,2,116.83,No,81.4,No,4,Tablet
+412,45,Female,Urban,7619.29,Beauty,45,1,179.43,Yes,111.6,Yes,5,Mobile
+413,39,Male,Urban,3903.17,Electronics,3,54,165.71,No,66.9,No,4,Mobile
+414,56,Male,Rural,2818.18,Books,50,11,41.45,Yes,95.6,Yes,3,Desktop
+415,29,Male,Urban,5013.63,Electronics,27,14,172.23,No,110.9,No,4,Desktop
+416,22,Female,Urban,4136.23,Home Goods,34,14,133.14,Yes,83.0,No,3,Tablet
+417,41,Male,Suburban,5801.27,Beauty,5,30,94.91,Yes,83.7,No,3,Mobile
+418,56,Male,Suburban,5452.82,Books,38,11,62.56,No,99.3,No,3,Tablet
+419,27,Male,Urban,5186.26,Clothing,43,13,137.35,Yes,85.9,No,3,Desktop
+420,35,Female,Urban,5046.31,Electronics,16,31,131.52,Yes,112.8,No,4,Mobile
+421,58,Male,Urban,4866.21,Electronics,13,26,144.16,Yes,119.6,Yes,5,Mobile
+422,42,Female,Suburban,5402.45,Beauty,45,0,134.2,No,95.5,No,4,Mobile
+423,41,Male,Rural,2721.51,Beauty,21,0,83.02,Yes,134.3,No,5,Mobile
+424,44,Male,Suburban,3524.94,Home Goods,22,3,89.78,No,62.7,No,3,Mobile
+425,46,Female,Suburban,2607.5,Electronics,23,12,109.96,Yes,139.8,No,3,Desktop
+426,52,Non-binary,Urban,6618.32,Books,35,7,135.92,No,95.2,No,5,Tablet
+427,51,Male,Suburban,4285.4,Electronics,26,3,107.89,No,82.6,Yes,4,Desktop
+428,60,Male,Urban,5036.3,Books,30,12,110.42,Yes,71.6,No,3,Mobile
+429,62,Female,Urban,3882.06,Beauty,34,12,64.81,Yes,135.2,No,3,Tablet
+430,43,Male,Urban,6203.27,Electronics,23,6,154.6,Yes,122.5,Yes,5,Desktop
+431,30,Male,Suburban,2411.12,Beauty,31,11,62.06,Yes,112.4,Yes,4,Mobile
+432,66,Male,Urban,5333.46,Clothing,41,13,152.9,No,65.0,No,4,Mobile
+433,54,Female,Suburban,4823.33,Clothing,3,69,127.52,No,54.7,No,3,Desktop
+434,59,Female,Rural,1500.0,Clothing,48,1,57.61,Yes,95.2,No,5,Mobile
+435,64,Male,Urban,6491.96,Home Goods,13,43,152.18,No,12.8,No,5,Tablet
+436,44,Female,Urban,5918.49,Beauty,33,4,71.38,No,70.1,Yes,5,Mobile
+437,57,Female,Rural,3044.14,Home Goods,34,6,48.61,Yes,93.0,No,4,Desktop
+438,50,Female,Suburban,4618.74,Electronics,31,4,121.09,Yes,113.4,No,5,Mobile
+439,54,Female,Suburban,4676.5,Home Goods,22,10,97.99,Yes,79.8,Yes,3,Mobile
+440,58,Female,Urban,4544.62,Electronics,12,10,136.62,Yes,116.3,Yes,4,Mobile
+441,30,Male,Urban,4465.77,Beauty,33,11,28.11,No,84.1,Yes,3,Mobile
+442,27,Male,Urban,5147.54,Clothing,22,0,66.32,No,87.2,No,3,Mobile
+443,49,Male,Urban,6813.38,Home Goods,27,9,115.32,Yes,50.4,No,3,Tablet
+444,44,Female,Urban,6790.94,Books,5,20,148.61,No,62.0,No,3,Mobile
+445,47,Male,Urban,6325.89,Beauty,18,15,84.1,Yes,67.7,No,3,Mobile
+446,58,Male,Urban,3830.78,Clothing,4,81,134.36,Yes,89.7,No,3,Desktop
+447,32,Female,Urban,4261.9,Beauty,23,12,48.41,Yes,82.8,No,3,Mobile
+448,31,Male,Urban,6909.6,Books,44,4,68.62,Yes,66.3,Yes,5,Mobile
+449,53,Female,Urban,6694.82,Electronics,42,12,158.79,Yes,64.1,Yes,4,Desktop
+450,21,Male,Suburban,3836.37,Clothing,36,14,118.58,Yes,59.8,Yes,3,Mobile
+451,33,Non-binary,Suburban,3354.9,Home Goods,5,40,20.0,No,58.8,No,3,Mobile
+452,55,Female,Suburban,5093.66,Clothing,42,5,101.54,Yes,94.8,No,4,Desktop
+453,34,Male,Urban,5586.58,Clothing,10,33,151.77,Yes,85.7,Yes,5,Mobile
+454,58,Male,Rural,3105.55,Clothing,4,51,102.76,No,46.9,No,4,Mobile
+455,25,Male,Rural,2690.15,Home Goods,33,8,45.33,Yes,52.8,No,3,Tablet
+456,31,Female,Rural,4356.62,Electronics,23,9,155.21,Yes,103.9,No,5,Desktop
+457,52,Female,Suburban,7027.34,Beauty,29,10,116.84,Yes,83.2,No,3,Desktop
+458,19,Male,Suburban,5078.81,Electronics,19,22,155.87,No,90.9,No,5,Desktop
+459,57,Female,Suburban,2976.37,Books,9,14,38.76,No,61.1,No,4,Mobile
+460,58,Male,Urban,4453.24,Home Goods,21,0,60.9,No,62.1,Yes,5,Desktop
+461,20,Male,Urban,4637.79,Books,36,7,129.75,Yes,82.8,No,4,Desktop
+462,48,Female,Rural,3333.82,Beauty,48,10,54.97,No,64.5,Yes,3,Tablet
+463,24,Female,Suburban,1500.0,Books,29,0,20.0,Yes,56.4,No,4,Mobile
+464,36,Male,Urban,4092.25,Clothing,20,14,52.47,Yes,65.3,Yes,3,Desktop
+465,58,Female,Rural,1719.21,Electronics,49,10,83.11,No,97.8,No,3,Desktop
+466,68,Male,Urban,6102.08,Books,46,5,98.06,No,40.0,Yes,5,Tablet
+467,70,Female,Rural,3553.08,Electronics,28,11,54.48,Yes,113.7,No,4,Mobile
+468,26,Male,Urban,4207.46,Clothing,48,5,117.84,No,40.6,Yes,5,Mobile
+469,33,Male,Urban,5795.64,Electronics,49,13,199.68,Yes,84.6,No,4,Mobile
+470,23,Male,Rural,1500.0,Books,5,34,30.42,Yes,73.9,No,3,Mobile
+471,23,Male,Suburban,3055.54,Clothing,49,4,79.83,No,52.0,No,5,Desktop
+472,22,Female,Urban,2484.85,Beauty,18,39,20.52,Yes,83.6,No,3,Tablet
+473,43,Female,Urban,4870.48,Electronics,40,14,161.87,Yes,124.9,No,5,Mobile
+474,69,Male,Suburban,4429.74,Electronics,5,22,142.15,No,82.2,Yes,3,Desktop
+475,35,Female,Urban,5964.87,Home Goods,28,5,90.86,No,40.1,Yes,4,Tablet
+476,62,Male,Urban,6372.75,Home Goods,24,8,129.71,Yes,97.1,No,4,Desktop
+477,22,Male,Suburban,2423.08,Books,28,3,46.03,No,83.6,No,5,Desktop
+478,64,Male,Urban,4223.29,Electronics,20,6,178.98,No,78.4,No,5,Desktop
+479,53,Male,Urban,5941.3,Electronics,14,34,183.01,No,134.1,No,5,Desktop
+480,21,Male,Urban,3070.4,Electronics,40,8,69.9,No,104.9,Yes,4,Mobile
+481,32,Female,Urban,5323.5,Electronics,18,4,168.31,No,84.8,No,5,Desktop
+482,19,Male,Urban,3104.82,Clothing,36,11,69.5,Yes,101.5,No,4,Mobile
+483,46,Female,Urban,5019.2,Books,10,38,100.19,Yes,62.8,No,3,Tablet
+484,42,Female,Urban,7307.46,Clothing,22,8,130.69,No,99.3,No,3,Desktop
+485,57,Female,Urban,3211.73,Clothing,43,9,53.02,No,33.3,No,3,Mobile
+486,29,Female,Rural,5436.82,Clothing,22,0,110.55,Yes,75.7,Yes,4,Tablet
+487,40,Male,Urban,4785.57,Home Goods,13,42,115.59,No,58.0,No,3,Mobile
+488,70,Male,Suburban,1500.0,Clothing,8,21,20.0,No,64.0,No,3,Tablet
+489,47,Male,Rural,3505.86,Beauty,28,1,71.06,Yes,105.3,Yes,5,Desktop
+490,23,Male,Urban,3398.89,Books,43,2,31.52,Yes,61.8,No,4,Mobile
+491,48,Non-binary,Urban,5742.53,Electronics,12,28,142.02,Yes,126.2,Yes,4,Mobile
+492,26,Male,Urban,4987.86,Clothing,16,19,127.47,No,71.2,No,3,Desktop
+493,67,Female,Suburban,3875.4,Clothing,48,4,77.93,Yes,98.2,No,5,Mobile
+494,56,Female,Urban,4455.85,Beauty,17,22,115.08,Yes,107.2,Yes,5,Desktop
+495,27,Female,Urban,6485.41,Beauty,41,9,135.78,Yes,78.4,No,3,Mobile
+496,58,Female,Suburban,3370.9,Electronics,22,3,105.55,Yes,137.2,No,5,Mobile
+497,53,Male,Suburban,4064.12,Clothing,30,1,90.57,No,49.4,No,4,Desktop
+498,35,Female,Rural,5306.94,Home Goods,39,8,72.73,No,45.4,No,3,Mobile
+499,70,Female,Urban,4133.3,Electronics,35,9,203.33,Yes,106.1,Yes,5,Mobile
+500,39,Female,Suburban,4185.43,Books,40,9,66.04,No,62.6,No,3,Mobile
+501,60,Male,Urban,5043.09,Home Goods,38,11,154.57,Yes,76.4,Yes,5,Mobile
+502,65,Male,Rural,2275.78,Books,50,14,20.87,No,68.1,No,2,Mobile
+503,51,Male,Suburban,4331.41,Clothing,14,11,99.7,No,70.9,No,3,Desktop
+504,68,Female,Rural,4064.0,Electronics,15,7,84.7,No,131.3,Yes,5,Mobile
+505,34,Male,Urban,4834.78,Home Goods,12,25,67.25,Yes,42.3,No,3,Mobile
+506,42,Female,Rural,3504.74,Clothing,47,11,96.62,No,79.9,Yes,3,Desktop
+507,49,Female,Urban,5493.15,Beauty,16,20,58.7,No,64.0,No,3,Mobile
+508,52,Female,Suburban,5563.42,Clothing,10,9,168.45,No,69.0,No,4,Mobile
+509,26,Male,Urban,6333.12,Clothing,43,4,151.85,No,51.5,No,5,Mobile
+510,37,Female,Urban,4427.33,Beauty,28,6,85.24,Yes,108.7,Yes,4,Mobile
+511,42,Female,Urban,4388.26,Clothing,14,2,88.26,Yes,77.0,Yes,4,Mobile
+512,65,Male,Suburban,2121.49,Home Goods,27,7,20.0,Yes,83.6,No,4,Desktop
+513,31,Female,Suburban,5575.57,Home Goods,7,6,56.77,No,61.3,Yes,5,Mobile
+514,62,Female,Urban,3240.39,Electronics,49,5,65.14,Yes,93.7,Yes,5,Tablet
+515,39,Male,Suburban,6021.71,Home Goods,48,5,107.53,Yes,91.7,No,4,Desktop
+516,23,Male,Rural,5691.22,Electronics,5,36,215.29,No,94.7,Yes,5,Desktop
+517,22,Female,Urban,5242.83,Home Goods,21,14,87.7,No,17.9,No,3,Mobile
+518,20,Male,Suburban,3175.74,Clothing,26,7,89.57,No,80.6,No,4,Desktop
+519,40,Male,Rural,2911.05,Home Goods,49,1,79.14,Yes,79.9,No,4,Tablet
+520,32,Male,Urban,5299.21,Electronics,33,1,165.13,No,100.6,Yes,5,Tablet
+521,47,Male,Urban,6343.57,Home Goods,36,7,125.91,Yes,64.6,No,4,Mobile
+522,54,Female,Suburban,4857.17,Home Goods,25,5,63.36,No,67.5,No,3,Mobile
+523,57,Female,Suburban,2258.99,Home Goods,14,39,20.0,No,99.3,No,3,Mobile
+524,63,Female,Suburban,1742.94,Home Goods,5,39,24.0,No,32.2,No,3,Desktop
+525,32,Female,Urban,6133.77,Books,43,11,79.5,Yes,41.2,No,4,Mobile
+526,26,Male,Urban,4763.5,Books,41,5,131.85,Yes,62.9,Yes,4,Mobile
+527,23,Male,Suburban,3007.74,Clothing,38,9,41.14,Yes,111.3,Yes,4,Mobile
+528,44,Male,Urban,6242.84,Beauty,20,13,139.9,Yes,120.7,No,4,Mobile
+529,39,Male,Urban,5366.78,Beauty,14,23,69.29,Yes,81.3,No,3,Mobile
+530,31,Male,Urban,2684.79,Home Goods,36,0,30.49,No,103.5,Yes,5,Desktop
+531,65,Female,Urban,4839.36,Electronics,48,8,142.83,Yes,144.6,No,3,Mobile
+532,34,Male,Urban,6124.31,Beauty,36,1,150.53,Yes,85.2,No,5,Mobile
+533,25,Male,Urban,4274.46,Electronics,35,14,143.4,Yes,133.8,No,3,Mobile
+534,58,Male,Rural,2651.55,Clothing,46,11,76.66,Yes,60.1,Yes,4,Desktop
+535,63,Female,Suburban,2352.42,Beauty,2,17,71.47,Yes,91.3,No,4,Desktop
+536,51,Male,Suburban,2267.09,Electronics,33,13,81.22,No,51.9,Yes,4,Mobile
+537,70,Male,Rural,2863.92,Home Goods,5,20,53.98,Yes,68.8,No,3,Mobile
+538,24,Female,Urban,3015.6,Electronics,48,1,29.05,No,80.6,Yes,4,Mobile
+539,18,Female,Suburban,3162.8,Beauty,41,8,90.51,Yes,74.6,Yes,4,Mobile
+540,18,Male,Rural,3307.88,Clothing,30,6,134.05,No,58.3,Yes,4,Mobile
+541,39,Male,Urban,6874.12,Beauty,38,11,106.32,Yes,69.5,No,2,Mobile
+542,31,Male,Suburban,4027.31,Electronics,42,7,142.53,Yes,100.7,No,4,Desktop
+543,48,Male,Rural,4340.29,Electronics,32,6,212.53,Yes,137.2,Yes,5,Desktop
+544,54,Female,Rural,4028.38,Books,31,12,55.47,No,74.5,No,3,Mobile
+545,18,Female,Urban,5130.89,Electronics,42,3,154.71,No,133.2,Yes,5,Tablet
+546,24,Male,Urban,5175.4,Beauty,1,83,119.64,No,66.3,No,3,Desktop
+547,64,Female,Rural,2236.17,Home Goods,47,2,53.98,No,16.3,Yes,5,Mobile
+548,18,Male,Suburban,1500.0,Clothing,30,3,20.0,No,64.2,No,4,Mobile
+549,52,Female,Suburban,3958.16,Beauty,14,36,118.18,No,79.9,No,3,Mobile
+550,69,Male,Rural,2894.51,Beauty,36,0,134.85,No,80.1,No,4,Tablet
+551,68,Male,Rural,2900.42,Electronics,50,5,97.51,Yes,138.1,No,4,Tablet
+552,37,Female,Urban,3930.07,Clothing,45,4,91.29,Yes,74.1,Yes,5,Mobile
+553,26,Male,Rural,3427.12,Beauty,33,4,119.89,No,54.4,No,4,Mobile
+554,69,Female,Rural,3699.84,Books,17,12,88.55,No,78.0,No,3,Mobile
+555,62,Female,Urban,3523.98,Home Goods,3,80,78.69,Yes,90.4,Yes,4,Mobile
+556,40,Male,Rural,3589.98,Home Goods,32,3,92.23,Yes,96.3,No,4,Mobile
+557,56,Male,Suburban,4107.4,Books,2,29,114.3,Yes,54.3,No,2,Tablet
+558,65,Female,Urban,1653.74,Electronics,17,12,96.6,Yes,164.5,No,3,Desktop
+559,45,Female,Urban,5460.69,Home Goods,15,17,56.04,No,29.5,No,3,Mobile
+560,20,Female,Suburban,4237.8,Clothing,49,4,103.39,Yes,97.3,No,5,Mobile
+561,41,Female,Urban,2744.93,Electronics,11,8,71.38,No,98.9,No,4,Desktop
+562,60,Female,Urban,5414.02,Electronics,38,9,181.49,Yes,81.5,No,4,Mobile
+563,27,Female,Urban,4253.15,Clothing,43,10,75.07,No,88.2,No,3,Desktop
+564,46,Female,Rural,4381.17,Clothing,25,1,60.27,Yes,90.3,Yes,5,Desktop
+565,63,Female,Urban,4395.9,Beauty,14,23,130.26,No,86.8,Yes,3,Mobile
+566,68,Male,Rural,1816.68,Beauty,31,1,66.09,No,75.3,Yes,5,Mobile
+567,49,Male,Suburban,5567.76,Clothing,49,6,114.7,Yes,71.4,No,4,Mobile
+568,22,Female,Suburban,5048.28,Home Goods,19,8,89.92,Yes,111.8,Yes,4,Desktop
+569,26,Male,Urban,3467.02,Electronics,23,3,153.74,Yes,75.8,No,4,Desktop
+570,23,Male,Urban,3902.47,Beauty,26,3,60.37,No,56.9,No,4,Tablet
+571,61,Male,Urban,6942.01,Books,13,16,130.21,Yes,93.6,Yes,4,Mobile
+572,47,Male,Urban,6359.44,Home Goods,14,29,132.03,No,30.4,No,3,Desktop
+573,25,Male,Urban,5120.59,Clothing,15,13,138.52,No,87.0,No,3,Mobile
+574,47,Male,Urban,5862.01,Home Goods,49,13,187.69,Yes,78.2,Yes,4,Desktop
+575,32,Female,Suburban,2551.1,Books,44,8,44.65,Yes,84.7,No,3,Mobile
+576,45,Male,Rural,5220.39,Home Goods,29,11,123.77,No,103.2,Yes,4,Mobile
+577,32,Female,Suburban,3460.69,Electronics,39,12,112.1,No,96.4,No,3,Mobile
+578,52,Male,Urban,5761.55,Beauty,4,81,101.23,No,78.0,No,2,Tablet
+579,47,Female,Suburban,4694.43,Home Goods,49,8,50.1,No,87.7,No,3,Mobile
+580,24,Female,Urban,5310.02,Home Goods,21,5,104.64,Yes,108.1,Yes,4,Mobile
+581,45,Female,Suburban,4756.82,Home Goods,27,1,83.9,Yes,63.7,No,5,Mobile
+582,48,Female,Rural,4115.2,Clothing,22,9,84.31,No,79.8,No,1,Desktop
+583,43,Male,Suburban,3796.49,Books,39,12,33.63,No,34.5,No,3,Desktop
+584,41,Male,Urban,6454.2,Beauty,23,13,92.68,Yes,123.4,Yes,4,Mobile
+585,40,Female,Suburban,2029.23,Books,19,33,26.51,No,77.4,No,4,Mobile
+586,60,Female,Rural,3712.11,Books,25,3,66.27,Yes,95.6,No,4,Desktop
+587,23,Male,Rural,3076.26,Electronics,5,27,105.91,No,89.9,Yes,3,Desktop
+588,65,Non-binary,Rural,2439.69,Electronics,9,6,102.29,Yes,133.6,No,5,Mobile
+589,28,Female,Urban,6403.88,Electronics,6,28,219.89,No,95.2,No,5,Mobile
+590,21,Male,Urban,4275.6,Books,42,3,44.58,Yes,93.3,Yes,5,Mobile
+591,51,Male,Urban,6354.64,Books,18,32,97.31,No,58.7,No,3,Mobile
+592,48,Female,Urban,4514.88,Clothing,10,26,145.31,Yes,100.9,No,3,Mobile
+593,25,Male,Rural,3639.12,Electronics,18,12,110.02,Yes,108.9,No,3,Tablet
+594,62,Male,Suburban,2907.97,Electronics,11,4,92.58,No,81.8,No,5,Desktop
+595,61,Female,Urban,4100.47,Clothing,44,3,86.2,No,85.9,No,3,Desktop
+596,20,Female,Rural,2582.91,Electronics,18,19,176.92,No,123.6,Yes,5,Mobile
+597,32,Male,Suburban,1500.0,Books,36,10,20.0,No,70.0,Yes,3,Tablet
+598,40,Female,Urban,6896.48,Clothing,32,3,160.76,No,95.3,No,5,Mobile
+599,48,Male,Urban,4519.33,Beauty,11,30,130.02,Yes,120.2,No,4,Mobile
+600,50,Male,Suburban,5201.2,Electronics,41,11,185.19,Yes,113.2,No,4,Mobile
+601,46,Non-binary,Urban,4106.68,Books,21,5,91.44,No,80.4,No,4,Mobile
+602,67,Male,Rural,3364.21,Home Goods,18,21,32.18,No,66.3,No,3,Desktop
+603,69,Male,Urban,3797.44,Books,24,0,47.19,No,79.1,No,4,Tablet
+604,49,Female,Rural,4262.32,Electronics,28,9,168.2,Yes,70.8,No,4,Mobile
+605,50,Female,Urban,6026.24,Clothing,40,12,177.38,Yes,44.8,No,4,Mobile
+606,32,Male,Suburban,5074.17,Electronics,4,59,163.57,Yes,112.9,Yes,5,Tablet
+607,34,Female,Rural,3444.12,Electronics,35,3,145.68,Yes,129.6,No,5,Mobile
+608,37,Female,Rural,4534.03,Home Goods,43,7,75.64,No,86.1,Yes,5,Tablet
+609,22,Male,Rural,4480.32,Clothing,46,0,146.37,Yes,54.0,Yes,4,Mobile
+610,64,Male,Rural,3776.66,Clothing,42,13,110.64,Yes,100.3,Yes,4,Mobile
+611,56,Female,Suburban,3025.82,Beauty,32,12,31.51,No,114.9,No,3,Mobile
+612,18,Male,Urban,3432.25,Home Goods,12,37,105.01,Yes,75.9,No,4,Mobile
+613,53,Male,Rural,4132.53,Electronics,30,8,176.63,No,50.9,No,4,Desktop
+614,20,Male,Suburban,1500.0,Home Goods,15,39,20.0,No,81.9,No,2,Mobile
+615,51,Female,Rural,1500.0,Clothing,7,9,57.93,No,64.6,No,3,Mobile
+616,23,Female,Urban,7266.34,Clothing,29,13,187.21,Yes,80.7,No,4,Mobile
+617,64,Female,Rural,3908.65,Home Goods,26,3,24.18,No,111.6,No,4,Tablet
+618,28,Female,Suburban,4308.15,Home Goods,31,10,101.97,Yes,145.8,No,4,Desktop
+619,28,Female,Urban,4964.82,Home Goods,21,8,93.46,No,67.2,Yes,3,Mobile
+620,26,Male,Rural,3238.68,Electronics,31,7,130.1,No,98.6,No,5,Desktop
+621,23,Male,Urban,4605.85,Home Goods,26,9,81.64,No,19.3,No,2,Desktop
+622,22,Male,Urban,4196.76,Home Goods,4,29,105.11,Yes,71.3,No,4,Mobile
+623,26,Female,Rural,2360.27,Books,12,3,49.03,No,87.6,No,4,Mobile
+624,28,Male,Rural,5703.69,Beauty,35,9,72.31,No,44.6,No,3,Desktop
+625,32,Male,Rural,2261.52,Clothing,30,11,87.0,No,86.4,No,3,Mobile
+626,27,Female,Urban,4501.04,Books,25,5,61.69,Yes,78.7,Yes,5,Mobile
+627,50,Female,Rural,3552.38,Books,8,25,20.0,No,70.3,Yes,3,Mobile
+628,54,Female,Suburban,4693.28,Clothing,35,13,120.34,Yes,106.0,Yes,3,Desktop
+629,40,Male,Urban,3541.13,Home Goods,37,2,25.08,Yes,71.5,No,4,Mobile
+630,39,Female,Suburban,4252.12,Beauty,44,8,37.15,Yes,73.7,Yes,4,Mobile
+631,45,Male,Urban,5591.79,Clothing,9,36,190.15,Yes,113.4,Yes,5,Desktop
+632,66,Male,Urban,5573.68,Books,16,6,140.55,No,75.1,Yes,4,Mobile
+633,56,Female,Urban,5626.99,Beauty,25,6,154.03,Yes,87.0,No,4,Desktop
+634,49,Female,Urban,8107.4,Clothing,31,13,190.24,Yes,87.7,No,4,Desktop
+635,34,Female,Urban,5369.91,Electronics,4,27,94.59,No,95.6,No,3,Desktop
+636,26,Female,Suburban,5026.74,Electronics,39,14,123.25,Yes,106.6,Yes,4,Mobile
+637,69,Female,Urban,3637.1,Beauty,6,10,70.33,Yes,99.1,Yes,4,Mobile
+638,58,Male,Urban,5722.95,Clothing,41,3,117.73,Yes,86.7,No,4,Mobile
+639,26,Male,Urban,4293.54,Clothing,25,13,94.63,Yes,112.6,Yes,3,Tablet
+640,37,Female,Suburban,3468.16,Home Goods,20,3,83.9,No,54.7,No,4,Mobile
+641,33,Male,Urban,3116.44,Electronics,12,36,117.37,Yes,103.5,No,3,Mobile
+642,57,Male,Urban,4765.34,Books,41,10,76.91,Yes,124.5,No,3,Mobile
+643,58,Female,Suburban,1562.53,Electronics,49,1,88.44,No,97.9,No,5,Desktop
+644,57,Male,Suburban,2992.45,Books,38,14,42.74,Yes,97.8,No,3,Mobile
+645,45,Male,Urban,5320.84,Clothing,39,4,99.93,No,30.7,Yes,5,Mobile
+646,62,Female,Urban,2821.28,Beauty,44,9,111.48,Yes,93.0,Yes,4,Mobile
+647,34,Female,Urban,2605.28,Home Goods,14,3,87.85,Yes,75.3,No,5,Mobile
+648,31,Female,Suburban,2509.25,Beauty,50,8,83.36,No,80.5,No,4,Mobile
+649,70,Male,Urban,3728.88,Home Goods,11,2,50.0,No,51.6,No,4,Mobile
+650,30,Female,Urban,6743.58,Books,37,3,168.35,No,54.5,No,5,Tablet
+651,56,Male,Urban,5862.56,Electronics,5,22,181.52,No,82.4,No,4,Desktop
+652,48,Male,Urban,6795.56,Electronics,37,9,191.99,Yes,130.8,No,5,Tablet
+653,18,Male,Urban,4068.07,Beauty,16,25,142.94,No,57.0,Yes,3,Mobile
+654,20,Male,Suburban,4464.87,Clothing,43,9,92.68,No,79.2,Yes,4,Desktop
+655,60,Male,Urban,2857.71,Books,46,4,84.66,Yes,93.7,Yes,5,Desktop
+656,31,Female,Urban,6420.78,Home Goods,20,7,128.47,No,50.0,Yes,4,Tablet
+657,57,Female,Urban,3831.28,Electronics,49,12,145.23,Yes,101.3,No,3,Mobile
+658,41,Non-binary,Rural,3550.32,Beauty,25,10,49.36,No,54.3,Yes,3,Mobile
+659,42,Male,Urban,4616.42,Clothing,29,1,116.66,Yes,92.6,No,5,Mobile
+660,62,Male,Rural,2780.81,Books,15,29,20.0,Yes,56.1,No,4,Mobile
+661,54,Female,Rural,3467.35,Home Goods,2,34,61.66,Yes,88.9,No,4,Desktop
+662,59,Female,Urban,4772.59,Clothing,38,14,68.73,No,20.7,No,3,Mobile
+663,60,Female,Suburban,2497.31,Clothing,11,6,52.54,No,61.0,No,5,Mobile
+664,18,Female,Urban,3774.41,Beauty,24,1,42.26,Yes,97.5,No,4,Tablet
+665,43,Male,Urban,4728.48,Clothing,7,41,96.6,No,51.4,Yes,4,Mobile
+666,43,Female,Urban,6327.91,Home Goods,46,3,154.86,Yes,62.2,No,5,Mobile
+667,58,Male,Suburban,2563.5,Home Goods,12,6,55.66,Yes,116.6,Yes,5,Mobile
+668,48,Female,Urban,6113.12,Books,20,5,81.57,No,62.2,No,3,Mobile
+669,25,Female,Suburban,2788.98,Home Goods,34,13,89.24,Yes,109.4,Yes,4,Desktop
+670,40,Female,Urban,7034.22,Beauty,1,31,149.4,No,72.0,Yes,4,Desktop
+671,69,Female,Rural,1500.0,Home Goods,40,7,41.48,No,74.3,No,5,Mobile
+672,49,Male,Rural,4559.84,Beauty,1,20,125.87,Yes,95.9,Yes,4,Desktop
+673,61,Female,Suburban,1873.37,Clothing,42,4,52.52,No,57.8,No,4,Mobile
+674,50,Female,Urban,5456.0,Home Goods,23,12,87.75,No,47.5,No,2,Mobile
+675,59,Male,Suburban,2811.64,Electronics,50,14,127.9,Yes,102.2,Yes,4,Mobile
+676,38,Female,Suburban,2903.19,Home Goods,44,4,62.34,Yes,110.5,No,4,Desktop
+677,43,Male,Urban,5094.01,Clothing,33,8,117.0,No,64.0,No,3,Mobile
+678,28,Female,Urban,5416.04,Home Goods,21,8,99.07,Yes,80.3,Yes,3,Mobile
+679,37,Male,Urban,4435.52,Electronics,44,5,112.68,Yes,76.9,No,4,Desktop
+680,43,Female,Suburban,4845.65,Home Goods,1,54,87.13,No,37.9,Yes,3,Tablet
+681,19,Female,Suburban,3835.46,Electronics,29,13,116.97,Yes,86.8,No,3,Mobile
+682,28,Female,Urban,3803.6,Books,18,19,68.79,Yes,63.0,No,4,Mobile
+683,41,Female,Rural,1500.0,Clothing,33,0,104.18,Yes,66.5,No,3,Mobile
+684,31,Female,Rural,4283.57,Clothing,30,4,104.41,No,55.2,Yes,4,Mobile
+685,39,Male,Urban,4712.92,Electronics,41,1,168.09,Yes,50.4,No,5,Desktop
+686,24,Male,Urban,5437.52,Books,34,6,123.18,Yes,76.9,No,5,Desktop
+687,22,Male,Urban,5261.6,Books,6,6,75.81,Yes,105.1,Yes,5,Mobile
+688,60,Male,Rural,1500.0,Beauty,50,6,20.0,No,56.9,Yes,5,Mobile
+689,27,Male,Urban,4957.64,Electronics,21,6,162.35,Yes,102.9,Yes,5,Mobile
+690,21,Male,Suburban,3158.45,Books,14,29,29.33,Yes,94.4,Yes,4,Mobile
+691,35,Male,Urban,5183.13,Books,44,1,96.34,Yes,104.5,Yes,5,Desktop
+692,21,Female,Urban,2465.8,Books,16,19,35.66,Yes,94.5,No,4,Desktop
+693,26,Female,Suburban,4883.17,Electronics,33,12,145.79,Yes,111.6,Yes,4,Mobile
+694,49,Female,Urban,6824.88,Books,13,32,100.08,No,87.3,No,3,Mobile
+695,52,Male,Suburban,6721.94,Books,33,12,65.24,Yes,103.8,Yes,4,Desktop
+696,20,Male,Suburban,2617.51,Electronics,21,2,59.93,No,110.2,No,4,Mobile
+697,66,Female,Rural,1500.0,Beauty,25,5,34.42,Yes,105.8,No,5,Tablet
+698,57,Female,Suburban,2975.83,Clothing,10,9,95.41,No,35.4,Yes,3,Tablet
+699,25,Female,Urban,3318.31,Electronics,11,37,92.22,No,94.2,No,4,Mobile
+700,43,Female,Rural,2409.89,Home Goods,30,6,20.0,No,79.8,No,4,Desktop
+701,57,Male,Urban,4200.55,Clothing,28,10,161.19,Yes,80.9,No,4,Mobile
+702,58,Male,Urban,3127.03,Electronics,47,5,70.44,No,71.3,No,4,Desktop
+703,35,Male,Suburban,2485.37,Electronics,40,2,125.62,Yes,119.8,No,4,Mobile
+704,53,Female,Urban,6640.82,Books,38,3,111.03,Yes,93.3,Yes,5,Mobile
+705,43,Male,Urban,4943.34,Beauty,1,29,143.44,Yes,88.2,No,3,Tablet
+706,44,Female,Rural,5305.34,Home Goods,27,1,77.84,No,73.0,Yes,4,Mobile
+707,51,Female,Suburban,5398.65,Clothing,16,22,104.52,No,67.9,Yes,3,Desktop
+708,66,Female,Suburban,5071.93,Clothing,41,11,122.73,Yes,61.4,Yes,3,Tablet
+709,42,Female,Urban,4747.59,Clothing,18,25,107.63,Yes,86.7,Yes,3,Desktop
+710,63,Male,Urban,4583.96,Electronics,7,27,179.7,No,110.3,No,4,Desktop
+711,23,Female,Urban,4823.31,Clothing,42,13,141.27,Yes,49.6,Yes,3,Desktop
+712,65,Male,Urban,5122.55,Beauty,40,4,98.37,No,39.7,Yes,5,Tablet
+713,56,Female,Rural,1500.0,Beauty,6,16,50.88,No,32.8,Yes,4,Mobile
+714,57,Female,Urban,4234.99,Home Goods,45,3,92.34,No,75.5,No,4,Desktop
+715,67,Male,Suburban,2688.4,Clothing,38,14,53.5,No,35.1,No,3,Mobile
+716,57,Male,Rural,1927.1,Books,45,8,20.0,No,53.8,No,2,Mobile
+717,30,Male,Suburban,3798.0,Electronics,47,14,64.57,No,99.4,No,2,Tablet
+718,28,Male,Rural,4006.32,Clothing,2,30,57.02,Yes,75.1,Yes,4,Desktop
+719,19,Male,Rural,3541.99,Electronics,4,81,133.88,Yes,107.1,No,3,Desktop
+720,33,Female,Urban,4853.79,Clothing,15,21,119.23,Yes,29.0,No,3,Mobile
+721,66,Female,Urban,2124.37,Electronics,39,5,65.59,Yes,85.7,Yes,5,Mobile
+722,27,Male,Suburban,1500.0,Electronics,17,39,80.87,No,49.7,No,3,Mobile
+723,42,Male,Urban,3825.28,Electronics,48,5,81.97,Yes,97.2,No,4,Mobile
+724,31,Female,Rural,4930.58,Home Goods,39,0,85.3,No,42.2,No,4,Tablet
+725,50,Male,Urban,6646.8,Electronics,31,9,239.71,Yes,73.7,No,4,Desktop
+726,59,Male,Urban,5321.77,Home Goods,47,13,156.29,Yes,70.4,No,4,Mobile
+727,43,Male,Suburban,3210.14,Home Goods,22,14,28.9,No,61.7,Yes,3,Mobile
+728,66,Male,Suburban,3707.84,Electronics,39,13,143.17,Yes,108.3,Yes,4,Tablet
+729,49,Female,Urban,6310.63,Home Goods,21,9,149.04,Yes,77.1,Yes,4,Mobile
+730,70,Male,Urban,4421.97,Beauty,41,11,104.64,Yes,83.9,Yes,3,Mobile
+731,22,Female,Urban,4241.6,Clothing,48,11,91.43,No,40.2,Yes,3,Mobile
+732,70,Female,Suburban,3510.46,Home Goods,22,4,42.9,No,38.4,Yes,4,Mobile
+733,28,Female,Urban,4437.5,Electronics,41,5,134.82,Yes,91.1,Yes,5,Desktop
+734,53,Male,Urban,7715.73,Electronics,32,11,170.56,Yes,90.7,Yes,5,Mobile
+735,53,Male,Rural,4047.09,Electronics,29,12,151.89,No,104.0,No,5,Mobile
+736,68,Male,Urban,3098.33,Beauty,25,0,44.01,No,110.0,Yes,5,Mobile
+737,62,Male,Rural,4128.71,Home Goods,46,10,95.19,Yes,92.2,No,4,Mobile
+738,67,Male,Rural,2472.93,Beauty,4,23,65.31,Yes,119.5,No,3,Mobile
+739,41,Female,Urban,6524.23,Clothing,25,7,163.95,Yes,83.5,No,5,Mobile
+740,48,Female,Urban,8453.9,Electronics,24,2,189.15,Yes,117.9,Yes,5,Desktop
+741,61,Male,Suburban,2035.96,Electronics,47,11,66.22,No,95.3,Yes,3,Mobile
+742,34,Female,Urban,4924.72,Electronics,23,0,133.56,Yes,122.4,Yes,5,Desktop
+743,62,Male,Suburban,2667.65,Home Goods,27,5,58.74,No,82.8,No,4,Mobile
+744,56,Female,Urban,6089.06,Electronics,16,25,98.14,Yes,74.7,No,4,Mobile
+745,63,Female,Rural,2106.96,Electronics,25,5,127.51,Yes,121.6,No,5,Tablet
+746,55,Male,Suburban,4139.8,Clothing,18,29,108.76,No,53.8,No,3,Mobile
+747,67,Female,Urban,2201.06,Electronics,45,2,111.52,Yes,96.4,No,4,Desktop
+748,64,Female,Suburban,5100.94,Books,9,27,138.62,No,78.9,No,3,Mobile
+749,47,Male,Suburban,4382.1,Clothing,44,5,99.9,No,70.2,No,5,Mobile
+750,53,Male,Urban,7694.38,Electronics,40,3,185.87,Yes,94.6,Yes,5,Mobile
+751,35,Male,Urban,2965.08,Beauty,12,27,103.69,Yes,56.8,Yes,4,Tablet
+752,60,Female,Suburban,3163.69,Electronics,43,5,141.29,Yes,116.0,Yes,5,Mobile
+753,18,Female,Urban,5645.24,Electronics,6,30,184.12,Yes,54.2,No,4,Tablet
+754,31,Female,Suburban,3864.47,Beauty,20,12,77.09,Yes,82.4,No,3,Mobile
+755,20,Male,Rural,4310.02,Beauty,18,43,102.82,No,61.9,No,3,Mobile
+756,28,Female,Rural,2041.36,Clothing,31,14,41.82,No,48.7,No,4,Mobile
+757,59,Male,Suburban,2694.62,Home Goods,19,22,56.1,No,51.3,No,3,Desktop
+758,37,Female,Urban,3953.41,Clothing,18,6,90.56,No,57.8,No,3,Mobile
+759,39,Female,Suburban,4341.47,Beauty,38,3,65.59,Yes,63.2,No,3,Mobile
+760,62,Female,Suburban,2898.42,Electronics,42,0,146.98,Yes,74.5,Yes,4,Desktop
+761,33,Female,Suburban,3406.8,Home Goods,44,8,59.18,No,51.4,No,4,Desktop
+762,34,Female,Suburban,4840.23,Electronics,33,12,135.14,No,81.6,No,3,Desktop
+763,58,Female,Urban,2891.0,Clothing,37,3,81.78,Yes,99.6,No,5,Desktop
+764,34,Female,Urban,5806.41,Home Goods,43,2,91.69,No,94.8,No,4,Tablet
+765,49,Female,Urban,6992.44,Electronics,19,21,194.69,No,98.3,Yes,5,Desktop
+766,30,Female,Urban,4945.0,Books,37,10,115.97,Yes,102.9,No,4,Mobile
+767,48,Female,Suburban,6010.87,Clothing,43,0,187.51,Yes,90.9,Yes,5,Mobile
+768,33,Female,Urban,5541.47,Electronics,50,14,146.26,Yes,80.4,Yes,4,Mobile
+769,70,Male,Suburban,3774.23,Clothing,29,13,121.51,Yes,105.7,No,3,Mobile
+770,25,Female,Suburban,4588.41,Beauty,41,10,112.91,Yes,82.7,No,2,Mobile
+771,40,Male,Urban,3095.27,Clothing,22,2,62.71,Yes,90.1,No,5,Tablet
+772,21,Female,Rural,3243.5,Books,23,2,42.18,Yes,54.9,Yes,4,Mobile
+773,38,Female,Urban,2694.65,Home Goods,42,9,40.19,No,85.4,Yes,4,Desktop
+774,26,Female,Urban,4566.99,Home Goods,41,13,105.79,Yes,52.8,No,3,Mobile
+775,33,Female,Urban,2967.33,Clothing,41,13,73.24,No,50.9,No,2,Tablet
+776,18,Female,Suburban,5344.92,Beauty,34,10,68.01,No,65.2,Yes,3,Mobile
+777,26,Female,Rural,4227.38,Books,19,8,89.51,Yes,111.2,No,3,Mobile
+778,48,Female,Urban,6351.76,Books,49,4,136.56,Yes,104.6,No,4,Desktop
+779,21,Female,Urban,5306.34,Beauty,23,6,98.87,Yes,74.9,No,4,Desktop
+780,20,Female,Urban,4328.0,Clothing,9,27,105.31,Yes,51.5,Yes,4,Mobile
+781,40,Female,Suburban,5490.8,Clothing,21,12,112.57,Yes,62.0,No,4,Mobile
+782,58,Female,Suburban,1500.0,Clothing,4,21,76.71,No,64.7,No,4,Mobile
+783,55,Female,Urban,5078.14,Clothing,41,3,112.36,Yes,83.6,Yes,5,Desktop
+784,57,Female,Rural,2903.57,Clothing,17,10,63.01,No,44.4,No,3,Mobile
+785,30,Male,Urban,4572.82,Home Goods,29,5,49.65,Yes,83.5,No,4,Mobile
+786,56,Female,Suburban,2939.47,Electronics,25,0,139.6,Yes,120.7,Yes,4,Mobile
+787,46,Female,Urban,3032.3,Beauty,28,2,23.35,No,88.2,No,4,Mobile
+788,29,Female,Urban,4261.18,Clothing,7,7,113.37,No,75.3,No,4,Desktop
+789,37,Female,Suburban,6342.78,Electronics,36,7,157.49,Yes,119.9,Yes,5,Desktop
+790,33,Male,Rural,4582.97,Electronics,48,4,108.64,Yes,116.4,Yes,5,Mobile
+791,39,Female,Urban,5374.35,Electronics,2,36,168.96,Yes,122.4,No,4,Desktop
+792,53,Female,Suburban,4615.39,Electronics,19,39,151.76,No,81.2,No,4,Mobile
+793,37,Female,Rural,5209.95,Electronics,7,25,131.78,No,111.7,No,3,Desktop
+794,41,Male,Urban,4816.87,Beauty,48,0,95.06,Yes,85.6,Yes,4,Desktop
+795,20,Female,Urban,7144.64,Clothing,23,5,144.54,Yes,63.8,No,4,Mobile
+796,43,Female,Urban,6439.0,Books,2,14,152.48,No,74.6,No,4,Mobile
+797,52,Female,Suburban,3929.32,Clothing,27,12,161.54,Yes,66.3,No,4,Mobile
+798,66,Female,Suburban,1899.2,Home Goods,18,16,23.48,No,76.2,Yes,4,Tablet
+799,28,Male,Suburban,4273.82,Electronics,15,23,133.67,No,51.2,No,3,Mobile
+800,51,Male,Rural,3930.17,Books,38,7,43.62,No,31.4,No,4,Desktop
+801,29,Female,Urban,4142.19,Home Goods,18,34,20.0,Yes,116.0,No,3,Mobile
+802,56,Male,Urban,5028.73,Clothing,33,7,94.84,Yes,51.5,No,3,Mobile
+803,56,Female,Rural,4590.4,Clothing,41,14,80.91,No,33.3,Yes,4,Desktop
+804,66,Female,Urban,3038.44,Home Goods,23,4,76.17,No,33.0,Yes,4,Mobile
+805,68,Female,Urban,3049.43,Books,43,0,52.65,No,33.7,No,4,Desktop
+806,45,Female,Urban,5144.99,Clothing,25,2,114.75,No,84.2,No,5,Desktop
+807,44,Male,Suburban,5653.11,Clothing,17,34,110.31,No,38.8,No,3,Desktop
+808,30,Female,Urban,5804.08,Clothing,30,4,128.39,Yes,95.3,No,4,Mobile
+809,42,Female,Urban,6329.66,Electronics,42,4,202.67,No,69.4,No,5,Desktop
+810,32,Male,Urban,5052.03,Home Goods,33,10,66.46,Yes,49.0,No,3,Mobile
+811,49,Male,Suburban,5566.08,Beauty,29,9,145.17,No,85.9,No,3,Mobile
+812,60,Male,Urban,3192.41,Clothing,33,1,39.02,Yes,67.8,No,4,Tablet
+813,34,Male,Suburban,7085.89,Clothing,1,89,121.47,No,21.8,Yes,3,Mobile
+814,27,Female,Urban,5752.72,Home Goods,15,41,86.89,Yes,115.4,No,3,Desktop
+815,58,Male,Urban,4732.74,Home Goods,27,0,100.29,Yes,109.4,No,5,Mobile
+816,69,Male,Urban,3784.24,Home Goods,18,4,152.97,Yes,100.1,No,5,Desktop
+817,44,Female,Suburban,4312.84,Home Goods,46,2,104.16,Yes,99.7,No,5,Mobile
+818,69,Female,Urban,3825.12,Electronics,32,4,132.75,No,94.0,No,4,Mobile
+819,21,Male,Suburban,2206.61,Electronics,23,4,76.83,No,82.8,No,4,Mobile
+820,57,Female,Suburban,2929.88,Clothing,6,22,122.52,No,28.2,No,3,Mobile
+821,38,Male,Urban,6742.95,Electronics,25,2,180.25,Yes,110.2,No,5,Mobile
+822,57,Female,Urban,4730.01,Beauty,24,4,81.53,Yes,87.9,No,4,Desktop
+823,36,Male,Urban,7838.19,Electronics,44,0,268.01,Yes,141.8,No,5,Mobile
+824,28,Female,Suburban,3667.18,Home Goods,8,2,95.3,Yes,77.1,No,4,Desktop
+825,59,Female,Urban,3288.11,Electronics,11,27,89.8,No,98.3,No,3,Mobile
+826,66,Female,Suburban,3930.45,Electronics,1,14,183.17,Yes,117.6,No,5,Mobile
+827,21,Female,Suburban,2677.06,Electronics,21,7,127.93,No,80.3,Yes,5,Tablet
+828,51,Male,Urban,5920.67,Clothing,18,9,130.79,Yes,111.2,No,3,Mobile
+829,57,Female,Rural,2456.84,Books,22,11,48.65,Yes,116.7,Yes,5,Mobile
+830,60,Male,Urban,4320.81,Beauty,36,14,90.48,Yes,97.1,No,4,Tablet
+831,50,Female,Suburban,4129.31,Beauty,14,30,39.9,No,105.6,Yes,4,Desktop
+832,55,Female,Rural,6157.4,Electronics,19,30,195.23,Yes,118.7,Yes,5,Desktop
+833,43,Male,Urban,6149.16,Electronics,5,16,208.02,No,95.7,No,3,Tablet
+834,54,Female,Urban,7091.66,Home Goods,40,11,107.13,Yes,108.9,No,3,Tablet
+835,35,Male,Urban,6551.35,Home Goods,10,2,125.51,No,41.3,Yes,5,Mobile
+836,25,Male,Suburban,4630.67,Electronics,14,27,70.32,Yes,92.3,No,2,Desktop
+837,61,Male,Suburban,2120.13,Beauty,41,0,52.55,No,72.8,Yes,4,Mobile
+838,46,Female,Urban,7174.99,Books,39,14,127.04,Yes,73.9,No,2,Mobile
+839,61,Female,Urban,5886.07,Clothing,20,8,176.59,No,61.5,No,4,Mobile
+840,21,Male,Urban,4344.25,Beauty,45,9,56.22,No,54.6,Yes,3,Mobile
+841,24,Female,Suburban,4159.97,Clothing,43,5,89.03,Yes,70.4,No,4,Mobile
+842,67,Female,Rural,2214.86,Beauty,22,4,20.0,No,84.8,No,3,Mobile
+843,60,Male,Suburban,3922.16,Beauty,49,4,78.42,No,66.7,No,4,Mobile
+844,37,Female,Urban,4859.28,Beauty,2,51,99.79,Yes,122.6,No,3,Mobile
+845,29,Male,Suburban,3420.64,Home Goods,34,2,67.71,Yes,59.6,No,3,Mobile
+846,44,Female,Suburban,4147.73,Books,21,2,50.38,No,66.7,No,3,Mobile
+847,67,Female,Urban,4931.71,Books,40,13,136.54,No,40.8,No,3,Desktop
+848,28,Female,Rural,3238.32,Electronics,22,0,91.06,No,89.2,Yes,4,Mobile
+849,37,Male,Suburban,5099.21,Clothing,31,5,73.44,No,65.0,No,3,Desktop
+850,65,Female,Suburban,4159.52,Electronics,36,14,108.87,No,38.3,No,3,Mobile
+851,20,Female,Rural,2420.42,Clothing,32,7,72.01,Yes,81.4,Yes,5,Desktop
+852,62,Male,Rural,2684.03,Home Goods,30,14,21.48,No,18.9,No,4,Mobile
+853,65,Male,Rural,4419.08,Electronics,43,6,180.65,Yes,110.1,No,5,Tablet
+854,26,Female,Rural,1955.6,Home Goods,5,12,20.0,No,52.9,Yes,4,Mobile
+855,57,Female,Rural,3666.98,Clothing,35,9,122.41,Yes,82.4,No,3,Mobile
+856,45,Male,Urban,5457.01,Home Goods,6,28,137.79,No,53.9,No,2,Desktop
+857,46,Male,Rural,1691.09,Books,44,1,56.7,Yes,91.5,No,5,Desktop
+858,42,Female,Suburban,4107.48,Clothing,26,9,107.43,No,48.0,No,3,Desktop
+859,44,Male,Suburban,5509.52,Books,36,2,73.25,No,56.9,Yes,5,Desktop
+860,36,Male,Rural,3959.38,Home Goods,24,7,58.61,No,75.9,Yes,5,Mobile
+861,68,Female,Urban,5663.77,Home Goods,48,3,137.0,No,70.2,Yes,5,Mobile
+862,45,Female,Suburban,4985.39,Beauty,27,3,105.84,Yes,95.6,Yes,5,Mobile
+863,29,Male,Suburban,2562.45,Home Goods,9,4,24.14,No,57.5,Yes,5,Mobile
+864,18,Female,Rural,3751.38,Home Goods,9,5,54.72,Yes,75.4,No,4,Mobile
+865,47,Female,Suburban,6548.95,Home Goods,17,3,184.45,No,70.0,No,5,Mobile
+866,29,Female,Urban,5709.03,Electronics,31,2,166.69,Yes,116.4,No,5,Desktop
+867,47,Male,Suburban,3957.67,Electronics,34,7,94.21,Yes,125.5,No,5,Tablet
+868,24,Non-binary,Rural,2717.23,Electronics,22,12,126.17,Yes,134.4,Yes,3,Mobile
+869,31,Male,Urban,4054.74,Clothing,11,13,143.24,No,53.0,No,4,Mobile
+870,19,Female,Suburban,3265.31,Books,40,8,20.0,Yes,96.7,No,4,Mobile
+871,24,Male,Rural,3571.02,Electronics,14,6,147.72,Yes,66.1,No,4,Mobile
+872,42,Male,Suburban,5134.69,Books,20,13,71.11,No,74.5,No,3,Desktop
+873,34,Male,Suburban,2522.01,Clothing,34,7,20.0,Yes,72.6,No,4,Mobile
+874,64,Non-binary,Suburban,2867.08,Clothing,33,9,51.71,No,112.3,No,4,Mobile
+875,60,Male,Suburban,2605.13,Clothing,39,0,64.69,Yes,67.6,Yes,4,Desktop
+876,22,Male,Urban,3867.26,Beauty,10,40,73.06,Yes,104.9,No,4,Mobile
+877,46,Male,Suburban,3972.44,Home Goods,18,11,63.59,Yes,81.6,Yes,3,Desktop
+878,55,Female,Urban,5293.05,Electronics,4,32,206.14,Yes,87.2,No,4,Mobile
+879,66,Male,Urban,3449.92,Beauty,28,8,60.13,No,79.2,Yes,5,Tablet
+880,54,Male,Urban,8900.68,Clothing,21,12,222.12,Yes,76.5,No,4,Mobile
+881,42,Male,Urban,5553.01,Books,50,1,106.65,Yes,86.2,No,4,Tablet
+882,60,Male,Urban,2062.19,Home Goods,40,2,47.74,Yes,70.1,Yes,5,Mobile
+883,67,Male,Suburban,3147.4,Clothing,22,6,40.35,No,41.0,Yes,4,Tablet
+884,59,Female,Suburban,2524.69,Clothing,19,5,81.36,No,70.6,Yes,4,Mobile
+885,65,Female,Urban,3710.09,Electronics,2,54,118.09,No,69.5,No,3,Desktop
+886,29,Female,Suburban,3174.74,Electronics,1,39,111.23,Yes,82.1,No,2,Mobile
+887,36,Male,Rural,7103.25,Beauty,45,14,94.47,Yes,98.3,No,4,Mobile
+888,65,Male,Suburban,4870.92,Clothing,39,6,141.87,Yes,85.8,Yes,5,Mobile
+889,51,Female,Rural,3815.09,Books,33,12,55.0,Yes,84.9,No,3,Desktop
+890,20,Male,Urban,3800.43,Electronics,46,4,121.65,Yes,139.0,No,4,Desktop
+891,34,Male,Rural,2548.43,Books,47,5,20.0,Yes,68.8,No,4,Mobile
+892,70,Female,Suburban,2316.86,Electronics,25,12,73.9,No,103.1,No,2,Mobile
+893,43,Female,Urban,4577.89,Books,29,4,111.57,Yes,57.9,No,4,Mobile
+894,36,Female,Urban,4555.37,Home Goods,47,3,78.02,Yes,78.6,No,5,Mobile
+895,61,Male,Suburban,3324.95,Clothing,31,7,107.96,No,91.8,Yes,5,Tablet
+896,44,Female,Urban,5875.59,Books,47,8,48.41,Yes,61.1,No,4,Mobile
+897,38,Female,Urban,5610.32,Clothing,26,10,101.76,No,55.0,Yes,4,Mobile
+898,61,Male,Rural,2571.08,Electronics,50,6,84.27,Yes,104.9,Yes,5,Mobile
+899,31,Female,Suburban,3263.62,Electronics,35,11,111.81,Yes,108.4,Yes,3,Mobile
+900,45,Male,Urban,4169.57,Clothing,1,85,105.65,No,69.5,No,3,Desktop
+901,31,Male,Rural,2640.79,Electronics,35,6,93.09,Yes,120.0,Yes,5,Tablet
+902,44,Female,Urban,6048.82,Beauty,6,22,125.63,No,113.2,Yes,4,Mobile
+903,18,Male,Urban,4031.02,Home Goods,3,79,86.37,No,47.8,No,4,Mobile
+904,63,Female,Suburban,3285.88,Home Goods,24,6,101.61,Yes,79.5,No,3,Mobile
+905,67,Male,Rural,4162.48,Home Goods,14,8,91.98,No,72.9,No,3,Mobile
+906,19,Female,Suburban,2413.96,Clothing,4,32,43.04,Yes,95.9,No,5,Mobile
+907,57,Male,Suburban,4626.78,Books,46,7,77.75,No,77.6,No,4,Tablet
+908,39,Female,Urban,4398.93,Home Goods,19,11,116.07,No,103.0,No,3,Desktop
+909,53,Non-binary,Urban,6955.59,Books,12,19,117.54,Yes,94.1,No,4,Mobile
+910,44,Female,Urban,5014.15,Clothing,45,7,90.68,Yes,97.5,No,4,Mobile
+911,50,Male,Suburban,4521.0,Clothing,1,19,117.25,Yes,71.0,Yes,3,Tablet
+912,32,Female,Suburban,4870.47,Books,7,17,134.87,Yes,120.6,No,3,Mobile
+913,26,Male,Suburban,1500.0,Beauty,49,10,20.0,No,88.4,Yes,4,Mobile
+914,52,Male,Suburban,4536.07,Electronics,21,2,165.85,Yes,139.5,Yes,5,Mobile
+915,38,Female,Rural,3261.21,Home Goods,49,9,20.0,No,60.8,Yes,4,Mobile
+916,58,Male,Rural,3951.92,Electronics,29,2,96.8,Yes,94.6,Yes,5,Tablet
+917,58,Female,Rural,2449.55,Clothing,6,31,89.87,No,99.0,No,3,Mobile
+918,18,Female,Urban,4960.61,Home Goods,27,13,99.82,No,59.4,No,3,Mobile
+919,64,Female,Urban,4571.56,Beauty,1,27,123.34,No,89.2,No,2,Mobile
+920,27,Male,Urban,5322.76,Books,34,5,62.74,No,55.4,No,5,Desktop
+921,54,Male,Rural,2513.24,Beauty,49,5,57.91,No,95.5,Yes,5,Mobile
+922,63,Male,Suburban,4978.87,Beauty,32,6,128.0,Yes,74.4,Yes,4,Desktop
+923,60,Female,Urban,3708.11,Clothing,45,11,117.25,Yes,18.8,No,3,Desktop
+924,42,Female,Suburban,2540.69,Home Goods,33,10,61.19,No,32.3,Yes,4,Mobile
+925,41,Male,Urban,6537.44,Home Goods,23,11,135.68,No,40.2,No,3,Desktop
+926,51,Female,Rural,4821.03,Clothing,40,3,158.14,Yes,55.6,No,4,Desktop
+927,53,Male,Urban,4410.13,Electronics,17,44,150.58,Yes,74.7,Yes,4,Desktop
+928,18,Female,Suburban,5475.82,Electronics,1,26,172.88,No,114.8,Yes,5,Mobile
+929,43,Female,Suburban,4429.99,Home Goods,2,10,124.06,Yes,58.1,No,3,Mobile
+930,43,Male,Suburban,6538.39,Electronics,39,11,157.11,Yes,89.1,Yes,5,Mobile
+931,63,Male,Urban,4290.39,Books,17,13,97.5,No,43.2,No,3,Desktop
+932,62,Female,Urban,1500.0,Home Goods,31,2,20.0,No,67.1,No,4,Mobile
+933,31,Female,Urban,3326.53,Clothing,46,5,110.36,Yes,68.9,Yes,4,Desktop
+934,38,Female,Urban,6459.63,Books,2,21,119.23,No,104.7,Yes,4,Mobile
+935,25,Female,Suburban,1500.0,Clothing,50,12,88.79,Yes,131.2,Yes,4,Mobile
+936,19,Male,Urban,5678.19,Books,46,14,84.68,No,64.4,No,3,Mobile
+937,31,Female,Urban,4629.84,Books,45,5,58.95,Yes,91.2,No,4,Mobile
+938,39,Female,Suburban,5257.33,Beauty,37,4,143.19,Yes,91.8,No,4,Desktop
+939,31,Male,Urban,4496.92,Beauty,9,4,20.0,No,36.7,Yes,5,Mobile
+940,33,Female,Suburban,4345.33,Home Goods,37,0,137.5,Yes,46.3,No,3,Tablet
+941,65,Male,Suburban,3195.85,Clothing,18,22,72.97,Yes,79.9,No,3,Mobile
+942,50,Female,Rural,2982.79,Beauty,13,40,31.85,Yes,84.1,No,3,Mobile
+943,53,Male,Urban,4487.07,Books,41,5,91.04,Yes,43.7,No,4,Desktop
+944,34,Female,Urban,6196.2,Clothing,41,4,201.75,Yes,112.4,No,5,Desktop
+945,25,Male,Suburban,2908.04,Electronics,39,4,96.04,Yes,99.1,Yes,5,Tablet
+946,27,Female,Urban,5711.1,Electronics,32,8,99.77,Yes,104.8,No,4,Desktop
+947,20,Female,Urban,3563.63,Home Goods,32,5,84.83,No,57.7,No,4,Mobile
+948,50,Female,Urban,5800.49,Clothing,35,10,133.5,Yes,79.2,Yes,4,Mobile
+949,40,Male,Rural,5614.72,Beauty,50,7,66.76,No,65.4,Yes,5,Desktop
+950,66,Female,Suburban,3326.74,Clothing,47,2,92.0,Yes,94.7,Yes,5,Mobile
+951,27,Male,Urban,5079.55,Electronics,17,16,106.78,No,93.1,Yes,4,Mobile
+952,69,Female,Urban,2350.93,Electronics,36,8,58.92,Yes,123.3,Yes,4,Tablet
+953,64,Female,Urban,6348.81,Beauty,15,35,166.49,Yes,81.9,No,4,Desktop
+954,66,Male,Rural,3331.37,Electronics,11,33,115.75,No,79.3,No,4,Desktop
+955,32,Male,Rural,1893.81,Beauty,16,14,20.0,Yes,94.8,Yes,3,Desktop
+956,70,Non-binary,Suburban,2520.43,Home Goods,2,78,38.35,No,59.1,No,2,Mobile
+957,48,Female,Rural,5042.61,Clothing,12,18,205.47,Yes,57.4,Yes,4,Mobile
+958,56,Female,Suburban,2393.24,Electronics,8,25,80.05,No,66.9,No,3,Desktop
+959,51,Female,Urban,6898.35,Home Goods,39,2,107.52,Yes,81.7,No,4,Mobile
+960,29,Female,Urban,6111.21,Electronics,15,8,77.21,No,71.9,No,3,Desktop
+961,56,Male,Urban,4776.9,Home Goods,12,33,93.22,No,55.1,No,3,Desktop
+962,29,Female,Rural,3964.84,Clothing,48,13,108.24,Yes,110.2,Yes,4,Tablet
+963,19,Female,Suburban,4716.18,Home Goods,44,2,81.84,No,70.2,No,4,Mobile
+964,27,Male,Urban,4219.66,Beauty,38,7,62.78,No,69.5,No,4,Desktop
+965,67,Female,Urban,3919.75,Electronics,15,31,147.82,Yes,126.9,No,3,Mobile
+966,37,Non-binary,Suburban,3162.4,Clothing,7,19,104.28,Yes,103.3,Yes,4,Mobile
+967,55,Female,Rural,3329.84,Beauty,30,10,120.47,Yes,102.2,No,3,Desktop
+968,59,Male,Suburban,3516.5,Home Goods,40,3,61.87,Yes,100.9,No,5,Mobile
+969,59,Male,Rural,2480.74,Home Goods,1,49,61.4,Yes,43.0,No,3,Mobile
+970,35,Female,Urban,5568.51,Books,47,11,61.59,Yes,53.5,No,2,Desktop
+971,54,Male,Rural,6300.96,Electronics,46,14,158.36,Yes,75.2,Yes,4,Desktop
+972,70,Male,Urban,5005.93,Clothing,12,42,91.83,No,77.1,No,3,Desktop
+973,35,Male,Urban,3866.01,Home Goods,4,62,70.86,No,34.0,Yes,3,Mobile
+974,53,Male,Rural,5865.72,Books,16,42,36.9,Yes,104.9,Yes,5,Desktop
+975,24,Female,Urban,4123.93,Clothing,30,14,98.76,No,74.2,Yes,3,Mobile
+976,40,Male,Urban,5495.02,Beauty,17,33,127.28,Yes,84.3,No,3,Mobile
+977,70,Male,Urban,3730.43,Books,42,0,20.0,Yes,38.3,No,4,Mobile
+978,52,Female,Suburban,7260.36,Electronics,24,4,244.9,Yes,118.0,No,5,Desktop
+979,26,Male,Urban,5160.2,Clothing,28,13,100.99,Yes,110.3,Yes,5,Mobile
+980,56,Female,Rural,3515.07,Electronics,50,8,145.72,Yes,122.6,Yes,4,Mobile
+981,24,Male,Urban,3952.99,Clothing,8,18,53.68,Yes,90.6,No,3,Desktop
+982,68,Female,Urban,5235.39,Clothing,42,7,193.83,Yes,96.0,Yes,5,Desktop
+983,24,Male,Urban,4174.97,Beauty,33,11,154.69,Yes,113.8,No,4,Mobile
+984,62,Male,Urban,4003.78,Clothing,10,20,78.62,No,60.1,Yes,3,Mobile
+985,43,Female,Urban,5186.79,Electronics,29,7,162.15,Yes,104.9,No,5,Tablet
+986,30,Female,Urban,2558.24,Electronics,36,11,142.57,Yes,113.4,Yes,3,Mobile
+987,32,Female,Urban,2538.89,Electronics,34,4,68.89,No,76.2,Yes,5,Mobile
+988,47,Female,Suburban,4658.1,Clothing,23,8,161.85,Yes,66.9,No,3,Mobile
+989,39,Male,Urban,4264.8,Home Goods,46,7,105.84,Yes,93.8,No,5,Mobile
+990,40,Male,Suburban,4737.28,Clothing,46,0,89.67,Yes,62.6,No,4,Mobile
+991,57,Female,Suburban,1500.0,Clothing,37,13,37.33,No,70.5,No,3,Mobile
+992,56,Female,Urban,4527.13,Beauty,33,0,134.72,No,74.1,No,4,Mobile
+993,46,Male,Urban,6075.91,Electronics,36,5,177.37,Yes,103.3,Yes,5,Mobile
+994,54,Female,Urban,4304.82,Home Goods,31,8,20.0,Yes,98.8,No,4,Tablet
+995,21,Male,Suburban,2607.99,Electronics,15,20,129.09,No,124.2,Yes,5,Tablet
+996,47,Female,Rural,3859.47,Clothing,47,1,70.88,No,117.0,No,4,Mobile
+997,51,Male,Suburban,3717.3,Home Goods,16,19,95.47,No,18.6,No,2,Desktop
+998,23,Male,Urban,3993.52,Clothing,39,10,66.31,Yes,88.7,Yes,3,Mobile
+999,30,Female,Suburban,5050.56,Electronics,11,32,126.97,No,105.7,No,4,Mobile
+1000,50,Male,Urban,5686.17,Electronics,6,32,232.05,No,77.8,No,5,Mobile
